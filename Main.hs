@@ -36,9 +36,7 @@ instance IsRoute Route where
       pure fp
 
 main :: IO ()
-main = Z.run (thisDir </> [reldir|content|]) (thisDir </> [reldir|dest|]) generateSite
-  where
-    thisDir = [reldir|example/srid.ca|]
+main = Z.run [reldir|content|] [reldir|dest|] generateSite
 
 generateSite :: Action ()
 generateSite = do
