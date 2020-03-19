@@ -14,7 +14,7 @@ Published zettels under [2009701](z://health), [2009702](z://personal) and [2009
 
 [.](zcfquery://search?tag=chrono&linkTheme=withDate)
 
-For a complete index of all zettels, see [z-index](/z-index.html). There is no RSS, but you may [subscribe to the Github repo](https://github.com/srid/srid.ca/releases) for site updates.
+For a complete index of all zettels, see [z-index](/z-index.html). To subscribe to updates see [2011401](z://subscribe).
 
 ---
 
