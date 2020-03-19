@@ -4,4 +4,4 @@ dist-*
 result
 .shake
 
-dest
+content.output

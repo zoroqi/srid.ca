@@ -5,6 +5,6 @@ This is a real-world example of [neuron](https://github.com/srid/neuron), the co
 ## Running
 
 ```
-nix-shell --run 'ghcid -T ":main rib serve"'
+bin/run
 ```
 

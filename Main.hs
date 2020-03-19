@@ -36,7 +36,7 @@ instance IsRoute Route where
       pure fp
 
 main :: IO ()
-main = Z.run [reldir|content|] [reldir|dest|] generateSite
+main = Z.run generateSite
 
 generateSite :: Action ()
 generateSite = do
@@ -111,4 +111,3 @@ style = "div#thesite" ? do
     C.marginLeft C.auto
     C.marginRight C.auto
   Z.style
--- TODO: Move these to neuron's css
