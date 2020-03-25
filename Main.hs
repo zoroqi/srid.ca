@@ -75,7 +75,7 @@ renderPage site route val = html_ [lang_ "en"] $ do
       br_ mempty
       case route of
         Route_Zettel r ->
-          Z.renderRouteBody r val
+          Z.renderRouteBody site r val
         Route_Redirect _ ->
           mempty
 
