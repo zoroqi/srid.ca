@@ -14,6 +14,7 @@ import Development.Shake
 import Lucid
 -- TODO: Don't expose every module
 import qualified Neuron.Zettelkasten as Z
+import qualified Neuron.Zettelkasten.Config as Z
 import qualified Neuron.Zettelkasten.Route as Z
 import qualified Neuron.Zettelkasten.View as Z
 import Path
@@ -21,7 +22,6 @@ import Relude
 import qualified Rib
 import Rib (IsRoute)
 import Rib.Extra.CSS (googleFonts, stylesheet)
-import qualified Text.URI as URI
 
 data Route a where
   Route_Zettel :: Z.Route s g () -> Route (s, g)
@@ -41,19 +41,9 @@ main = Z.run generateSite
 generateSite :: Action ()
 generateSite = do
   Rib.buildStaticFiles [[relfile|static/**|]]
-  -- Yea, this URL would be wrong for local development server. But I don't
-  -- care enough to implement configurability at this point, as it is only used
-  -- in Open Graph tags.
-  siteUri <- liftIO $ URI.mkURI "https://www.srid.ca"
-  let site :: Z.Site =
-        Z.Site
-          { Z.siteTitle = "Sridhar Ratnakumar",
-            Z.siteAuthor = Just "Sridhar Ratnakumar",
-            Z.siteDescription = Just "Personal homepage of Srid",
-            Z.siteBaseUrl = Just siteUri
-          }
-      writeHtmlRoute :: Route a -> a -> Action ()
-      writeHtmlRoute r = Rib.writeRoute r . Lucid.renderText . renderPage site r
+  config <- Z.getConfig
+  let writeHtmlRoute :: Route a -> a -> Action ()
+      writeHtmlRoute r = Rib.writeRoute r . Lucid.renderText . renderPage config r
   void $ Z.generateSite (writeHtmlRoute . Route_Zettel) [[relfile|*.md|]]
   forM_ oldLinkRedirects $ \(oldPath, newUrlRel) ->
     writeHtmlRoute (Route_Redirect oldPath) newUrlRel
@@ -68,7 +58,7 @@ generateSite = do
         ([relfile|sous-vide.html|], "/1919301.html")
       ]
 
-renderPage :: Z.Site -> Route a -> a -> Html ()
+renderPage :: Z.Config -> Route a -> a -> Html ()
 renderPage site route val = html_ [lang_ "en"] $ do
   head_ @(Html ()) $ do
     case route of
