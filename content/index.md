@@ -10,7 +10,7 @@ This entire site is modeled based on the [Zettelkasten](https://writingcooperati
 
 ## Timeline
 
-Published notes under [2009701](z://health), [2009702](z://personal) and [2009703](z://haskell):
+Published notes under [2009701](z://health), [2009702](z://personal) and [2012302](z://software):
 
 [.](zcfquery://search?tag=chrono&linkTheme=withDate)
 

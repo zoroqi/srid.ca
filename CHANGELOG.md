@@ -5,6 +5,11 @@ Updates to srid.ca will be made here. You may "watch" the Github repository usin
 ## Unreleased
 
 - Expanded neuron documentation, and added tutorial: https://neuron.srid.ca/
+- New post: https://www.srid.ca/2012301.html
+
+### Blog post drafts & ideas
+
+- Using staticWhich; cf. https://github.com/srid/neuron/pull/25
 
 ## 2020-03-19
 

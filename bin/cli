@@ -1,0 +1,2 @@
+#!/bin/sh -ex
+$(nix-build)/bin/sridca ./content $*
