@@ -4,6 +4,8 @@ Updates to srid.ca will be made here. You may "watch" the Github repository usin
 
 ## Unreleased
 
+- Expanded neuron documentation, and added tutorial: https://neuron.srid.ca/
+
 ## 2020-03-19
 
 - Rewrote srid.ca based on [neuron](https://neuron.srid.ca/), my Zettelkasten tool.
