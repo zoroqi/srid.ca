@@ -14,7 +14,7 @@ Published notes under [2009701](z://health), [2009702](z://personal) and [201230
 
 [.](zcfquery://search?tag=chrono&linkTheme=withDate)
 
-For a complete index of all content, see [z-index](/z-index.html). To subscribe to updates see [2011401](z://subscribe).
+To subscribe to updates see [2011401](z://subscribe).
 
 ---
 
