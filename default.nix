@@ -1,6 +1,6 @@
 let 
   # The commit hash of http://github.com/srid/neuron to use
-  neuronRev = "85459ec";
+  neuronRev = "7b6c112";
 in {
   neuron ? ../neuron # builtins.fetchTarball "https://github.com/srid/neuron/archive/${neuronRev}.tar.gz"
 # Cabal project root
