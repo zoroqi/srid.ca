@@ -71,8 +71,7 @@ renderPage site route val = html_ [lang_ "en"] $ do
         style_ [type_ "text/css"] $ C.render style
         googleFonts $ [headerFont, bodyFont, monoFont]
   body_ $ do
-    div_ [class_ "ui text container", id_ "thesite"] $ do
-      br_ mempty
+    div_ [class_ "ui text container", id_ "thesite"] $
       case route of
         Route_Zettel r ->
           Z.renderRouteBody site r val
@@ -91,9 +90,11 @@ monoFont = "Roboto Mono"
 style :: Css
 style = "div#thesite" ? do
   C.fontFamily [bodyFont] [C.serif]
+  C.paddingTop $ em 1
+  C.paddingBottom $ em 1
   "p" ? do
     C.lineHeight $ pct 150
-  "h1, h2, h3, h4, h5, h6" ? do
+  "h1, h2, h3, h4, h5, h6, .ui.header" ? do
     C.fontFamily [headerFont] [C.sansSerif]
   "img" ? do
     C.maxWidth $ pct 50
