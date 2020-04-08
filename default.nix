@@ -1,6 +1,6 @@
 let 
   # The commit hash of http://github.com/srid/neuron to use
-  neuronRev = "91c56ed1";
+  neuronRev = "0bc5013";
 in {
   neuron ? builtins.fetchTarball "https://github.com/srid/neuron/archive/${neuronRev}.tar.gz"
 # Cabal project root
@@ -16,4 +16,5 @@ let
   };
 in import neuron { 
   inherit root name source-overrides; 
+  gitRev = neuronRev;
 }
