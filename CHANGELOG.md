@@ -4,9 +4,13 @@ Updates to srid.ca will be made here. You may "watch" the Github repository usin
 
 ## Unreleased
 
-- Expanded neuron documentation, and added tutorial: https://neuron.srid.ca/
-- New post: https://www.srid.ca/2012301.html
-- Made the haskell Zettelkasten public: https://haskell.srid.ca/
+- New posts: 
+  - <https://www.srid.ca/2012301.html>
+  - <https://www.srid.ca/2014301.html>
+- Expanded neuron documentation, and added tutorial: <https://neuron.srid.ca/>
+- Made the haskell Zettelkasten public: <https://haskell.srid.ca/>
+- Created rib guide: <https://rib.srid.ca/>
+- Released rib 0.8 and neuron 0.2
 
 ### Blog post drafts & ideas
 
