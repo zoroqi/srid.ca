@@ -11,6 +11,7 @@ Updates to srid.ca will be made here. You may "watch" the Github repository usin
 - Made the haskell Zettelkasten public: <https://haskell.srid.ca/>
 - Created rib guide: <https://rib.srid.ca/>
 - Released rib 0.8 and neuron 0.2
+- Added a quote from [the Elm critique](https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/) to [Handling conflicts](https://www.srid.ca/1930301.html).
 
 ### Blog post drafts & ideas
 
