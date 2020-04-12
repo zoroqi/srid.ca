@@ -21,7 +21,7 @@ executable sridca
     dhall,
     lucid,
     path,
-    rib ^>=0.8,
+    rib,
     shake,
     text,
     neuron,

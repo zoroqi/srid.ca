@@ -1,7 +1,5 @@
 dist
 dist-*
-.ghc.environment.*
 result
-.shake
 
-content.output
+content/.neuron
