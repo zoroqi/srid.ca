@@ -1,2 +1,0 @@
-#!/bin/sh -ex
-nix-shell --run 'ghcid -T ":main -d ./content rib -wS"'
