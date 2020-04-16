@@ -12,7 +12,7 @@ This entire site is modeled based on the [Zettelkasten](https://writingcooperati
 
 Published notes under [2009701](z://health), [2009702](z://personal) and [2012302](z://software):
 
-[.](zcfquery://search?tag=chrono&linkTheme=withDate)
+[.](zcfquery://search?tag=timeline&linkTheme=withDate)
 
 To subscribe to updates see [2011401](z://subscribe).
 
