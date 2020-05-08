@@ -10,11 +10,11 @@ This entire site is modeled based on the [Zettelkasten](https://writingcooperati
 
 ## Timeline
 
-Published notes under [2009701](z://health), [2009702](z://personal) and [2012302](z://software):
+Published notes under <2009701>, <2009702> and <2012302>:
 
-[.](zcfquery://search?tag=timeline&linkTheme=withDate)
+<z:zettels?tag=timeline&timeline&cf>
 
-To subscribe to updates see [2011401](z://subscribe).
+To subscribe to updates see <2011401>.
 
 ---
 
