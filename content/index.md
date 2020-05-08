@@ -14,8 +14,6 @@ Published notes under <2009701>, <2009702> and <2012302>:
 
 <z:zettels?tag=timeline&timeline&cf>
 
-To subscribe to updates see <2011401>.
-
 ---
 
 > *I have always searched for freedom in my life. Whenever I have felt stranded or trapped I eventually moved in the direction that appeared to offer greater freedom.* ---[Vineeto](http://actualfreedom.com.au/actualism/vineeto/vineeto.htm)
