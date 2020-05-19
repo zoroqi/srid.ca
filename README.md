@@ -5,5 +5,5 @@ This is a real-world example of [neuron](https://github.com/srid/neuron), the co
 ## Running
 
 ```
-neuron -d content rib -wS
+neuron -d www rib -wS
 ```
