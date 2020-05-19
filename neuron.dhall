@@ -15,7 +15,7 @@
     , "sous-vide:1919301"
     ]
 , editUrl =
-    Some "https://github.com/srid/srid.ca/edit/master/www/"
+    Some "https://github.com/srid/srid.ca/edit/master/"
 , mathJaxSupport =
     False
 , minVersion =
