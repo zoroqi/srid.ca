@@ -10,7 +10,7 @@ This entire site is modeled based on the [Zettelkasten](https://writingcooperati
 
 ## Timeline
 
-A chronological timeline of notes published under <2009701>, <2009702> and <2012302> is shown below. You can also checkout out my <d8177f66>.
+A chronological timeline of notes published under <2009701?cf>, <2009702?cf> and <2012302?cf> is shown below. You can also checkout out my <d8177f66?cf>.
 
 <z:zettels?tag=timeline&timeline&cf>
 
