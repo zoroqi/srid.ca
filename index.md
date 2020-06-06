@@ -8,9 +8,9 @@ Welcome to the personal home page of **Sridhar Ratnakumar**, a passionate [Haske
 
 This entire site is modeled based on the [Zettelkasten](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125) note taking method, and implemented using [neuron](https://neuron.zettel.page).
 
-## Timeline
+## Navigating this site
 
-A chronological timeline of notes published under <2009701?cf>, <2009702?cf> and <2012302?cf> is shown below.
+Start from one of <2009701?cf>, <2009702?cf> and <2012302?cf> ... or peruse the hand-picked timeline of notes below.
 
 <z:zettels?tag=timeline&timeline&cf>
 
