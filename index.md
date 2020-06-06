@@ -4,7 +4,7 @@ title: Sridhar Ratnakumar
 
 ![](https://srid.keybase.pub/me.jpeg){#avatar .ui .right .floated .small .image}
 
-Welcome to the personal home page of **Sridhar Ratnakumar**, a passionate [Haskeller](https://www.haskell.org/) and an [actualist](https://www.actualists.org/). I work as a Haskell consultant ([see CV]( https://srid.keybase.pub/resume.pdf)).
+Welcome to the personal home page of **Sridhar Ratnakumar**, a passionate Haskeller (<2009703?cf>) and actualist (<7c5337fc?cf>). I work as a Haskell consultant ([see CV]( https://srid.keybase.pub/resume.pdf)).
 
 This entire site is modeled based on the [Zettelkasten](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125) note taking method, and implemented using [neuron](https://neuron.zettel.page).
 
