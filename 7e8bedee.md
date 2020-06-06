@@ -3,7 +3,7 @@ title: Always be feeling
 date: "2020-05-19"
 ---
 
-People tend to develop a sort of numbness towards their feelings. In spirituality, this dissociative tendency is heightened to the nth degree (the vipassana method by Mr. Goenka, for example, has one dissociate from their feelings and identifying with physical sensations). In actualism, one needs to get back to *being* their feelings before engaging <603fe2cd?cf>. 
+People tend to develop a sort of numbness towards their feelings. In spirituality, this dissociative tendency is heightened to the nth degree (the vipassana method by Mr. Goenka, for example, has one dissociate from their feelings and identify with physical sensations). In actualism, one needs to get back to *being* their feelings before engaging <603fe2cd?cf>. 
 
 srinathjelly on Apr, 2020:
 
@@ -11,7 +11,7 @@ srinathjelly on Apr, 2020:
   being very aware of feelings - good and bad, that you can progressively feel
   better. As a feeling being my motto was always be feeling
 
-John C.M. to S:
+John C.M. to srinathjelly:
 
 > It's funny that I've spent years not heeding to this advice. It was just
   recently, through a mere coincidence, that I started to monitor my feelings
