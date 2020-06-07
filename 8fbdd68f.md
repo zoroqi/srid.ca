@@ -1,5 +1,5 @@
 ---
-title: Desi Film Media
+title: My favourite Desi films
 date: 2020-06-07
 ---
 
@@ -8,7 +8,7 @@ This note is a work-in-progress.
 
 Lately the Indian film industry has started producing some great films and TV shows that don't follow the tired old [masala trope](https://en.wikipedia.org/wiki/Masala_film). 
 
-Some of my favourites:
+I generally like thrillers, and here are some of my favourites:
 
 | | Movie | Genre |
 | --| -- | -- |
