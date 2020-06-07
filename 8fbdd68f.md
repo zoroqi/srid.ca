@@ -3,7 +3,7 @@ title: Desi Film Media
 date: 2020-06-07
 ---
 
-Lately the Indian film industry has started to produce some great films and TV shows, that don't follow the tired old tropes. 
+Lately the Indian film industry has started producing some great films and TV shows that don't follow the tired old [masala trope](https://en.wikipedia.org/wiki/Masala_film). 
 
 Some of my favourites:
 
