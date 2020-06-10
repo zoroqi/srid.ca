@@ -8,7 +8,7 @@ This note is a work-in-progress.
 
 Lately the Indian film industry has started producing some great films and TV shows that don't follow the tired old [masala trope](https://en.wikipedia.org/wiki/Masala_film). 
 
-I generally like thrillers, and here are some of my favourites:
+Here are some of my favourites (most of which are thrillers):
 
 | | Movie | Year | Genre |
 | --| -- | -- | -- |
