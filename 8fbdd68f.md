@@ -1,5 +1,5 @@
 ---
-title: My favourite Desi films
+title: My favourite Indian films
 date: 2020-06-07
 ---
 
