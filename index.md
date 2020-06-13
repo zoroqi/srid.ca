@@ -14,6 +14,8 @@ Start from one of <2009701?cf>, <2009702?cf> and <2012302?cf> ... or peruse the 
 
 <z:zettels?tag=timeline/**&timeline&cf>
 
+For a complete timeline, see <356bec10>.
+
 ---
 
 > *I have always searched for freedom in my life. Whenever I have felt stranded or trapped I eventually moved in the direction that appeared to offer greater freedom.* ---[Vineeto](http://actualfreedom.com.au/actualism/vineeto/vineeto.htm)
