@@ -12,7 +12,7 @@ In my free time, I work on <b6df4059?cf> (which this site is generated with) as 
 
 Start from one of <2009701?cf>, <2009702?cf> and <2012302?cf> ... or peruse the hand-picked timeline of notes below.
 
-<z:zettels?tag=timeline&timeline&cf>
+<z:zettels?tag=timeline/**&timeline&cf>
 
 ---
 
