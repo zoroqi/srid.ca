@@ -1,5 +1,7 @@
 ---
 date: 2020-06-13
+tags:
+  - reflex/pattern
 ---
 
 # Ouroboros FRP pattern
