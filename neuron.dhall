@@ -5,7 +5,7 @@
 , siteBaseUrl =
     Some "https://www.srid.ca"
 , theme =
-    "brown"
+    "teal"
 , aliases =
     [ "haskell-nix:1948201"
     , "lasik:1911401"
