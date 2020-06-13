@@ -6,7 +6,7 @@ tags:
 
 # Ouroboros FRP pattern
 
-![ouroboros](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Serpiente_alquimica.jpg/440px-Serpiente_alquimica.jpg){.ui .medium .right .floated .image}
+![ouroboros](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Serpiente_alquimica.jpg/440px-Serpiente_alquimica.jpg){.ui .small .right .floated .image}
 
 When writing FRP apps in reflex, there is often a situation where a widget that takes a `Dynamic` of some value produces an `Event` that updates the very `Dynamic` it takes as input.
 
