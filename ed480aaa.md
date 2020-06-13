@@ -2,5 +2,24 @@
 date: 2020-06-13
 ---
 
-# New zettel on 2020-06-13
+# Ouroboros FRP pattern
 
+![ouroboros](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Serpiente_alquimica.jpg/440px-Serpiente_alquimica.jpg){.ui .medium .right .floated .image}
+
+When writing FRP apps in reflex, there is often a situation where a widget that takes a `Dynamic` of some value produces an `Event` that updates the very `Dynamic` it takes as input.
+
+```haskell
+noteWidget :: Dynamic t Text -> m (Event t Text)
+noteWidget = ...
+``` 
+
+Here we have a text note widget that takes the text to display as input. The widget allows the user to edit the note, and its "save" button would trigger the output event. When the user saves the text, we want the note view to update with the saved text (the "ouroboros" feed-back).
+
+The function that calls this widget would look like this:
+
+```haskell
+mainWidget = do 
+  let initialNote = ...
+  rec noteDyn <- holdDyn initialNote noteEvt
+        noteEvt <- noteWidget noteDyn
+```          
