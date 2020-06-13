@@ -23,3 +23,5 @@ mainWidget = do
   rec noteDyn <- holdDyn initialNote noteEvt
         noteEvt <- noteWidget noteDyn
 ```          
+
+We must use the [`rec`](https://wiki.haskell.org/Keywords#rec) keyword, in order to allow recursive bindings in the do block. Why? Notice how `noteDyn` is defined by referencing `noteEvt` that is yet to defined. The two values recursively refer each other.
