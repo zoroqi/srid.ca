@@ -6,7 +6,7 @@ title: Sridhar Ratnakumar
 
 Welcome to the personal home page of **Sridhar Ratnakumar**, a passionate Haskeller (<2009703?cf>) and actualist (<7c5337fc?cf>). With over a decade of experience in software development, I now specialize in Haskell and Nix.  Take a look at [my résumé]( https://srid.keybase.pub/resume.pdf), and drop me an email if you need my services.
 
-In my free time, I work on [Neuron](https://neuron.zettel.page) (which this site is generated with) as well as the upcoming app [Cerveau](https://www.cerveau.app/).
+In my free time, I work on <b6df4059> (which this site is generated with) as well as the upcoming app [Cerveau](https://www.cerveau.app/).
 
 ## Navigating this site
 
