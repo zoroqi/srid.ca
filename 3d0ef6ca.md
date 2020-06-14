@@ -2,5 +2,6 @@
 date: 2020-06-14
 ---
 
-# New zettel on 2020-06-14
+# Philosophy
 
+<bae00bc9>
