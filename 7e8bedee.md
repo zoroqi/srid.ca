@@ -1,7 +1,8 @@
 ---
-title: Be your feelings
 date: "2020-05-19"
 ---
+
+# *Be* your feelings
 
 People tend to develop a sort of numbness towards their feelings. In spirituality, this dissociative tendency is heightened to the nth degree (the vipassana method by Mr. Goenka, for example, has one dissociate from their feelings and identify with physical sensations). In actualism, one needs to get back to *being* their feelings before engaging <603fe2cd?cf>. 
 
