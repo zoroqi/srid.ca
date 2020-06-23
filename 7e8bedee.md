@@ -25,4 +25,4 @@ John C.M. to srinathjelly:
   onto my desktop so that I'll never forget about being a "feeling being" ever
   again.
 
-[^goenka]: The vipassana method by Mr. Goenka, for example, has one dissociate from their feelings and identify with physical sensations.
+[^goenka]: The vipassana method by Mr. Goenka, for example, has one dissociate from their feelings and identify with physical sensations. See [Richard's Selected Correspondence](http://www.actualfreedom.com.au/richard/selectedcorrespondence/sc-goenka.htm).
