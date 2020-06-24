@@ -4,7 +4,7 @@
 
 Welcome to the personal home page of **Sridhar Ratnakumar**, a passionate Haskeller (<2009703?cf>) and actualist (<7c5337fc?cf>). 
 
-I'm presently focused on the <b6df4059?cf> project, as well as the upcoming [**Cerveau**](https://www.cerveau.app/) app. To hire me for my Haskell and related expertise, see [my résumé]( https://srid.keybase.pub/resume.pdf) for contact details.
+I'm presently focused on the <b6df4059?cf> project, as well as the upcoming [**Cerveau**](https://www.cerveau.app/) app. To hire me for my Haskell and related services, see [my résumé]( https://srid.keybase.pub/resume.pdf) for contact details.
 
 ## Navigating this site
 
