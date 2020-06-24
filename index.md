@@ -1,12 +1,10 @@
----
-title: Sridhar Ratnakumar
----
+# Sridhar Ratnakumar
 
-![](https://srid.keybase.pub/me.jpeg){#avatar .ui .right .floated .small .image}
+![avatar](https://srid.keybase.pub/me.jpeg){#avatar .ui .right .floated .small .image}
 
-Welcome to the personal home page of **Sridhar Ratnakumar**, a passionate Haskeller (<2009703?cf>) and actualist (<7c5337fc?cf>). With over a decade of experience in software development, I now specialize in Haskell and Nix.  Take a look at [my résumé]( https://srid.keybase.pub/resume.pdf), and drop me an email if you need my services.
+Welcome to the personal home page of **Sridhar Ratnakumar**, a passionate Haskeller (<2009703?cf>) and actualist (<7c5337fc?cf>). 
 
-In my free time, I work on <b6df4059?cf> (which this site is generated with) as well as the upcoming app [Cerveau](https://www.cerveau.app/).
+I'm presently focused on the <b6df4059?cf> project, as well as the upcoming [**Cerveau**](https://www.cerveau.app/) app. To hire me for my Haskell and related expertise, see [my résumé]( https://srid.keybase.pub/resume.pdf) for contact details.
 
 ## Navigating this site
 
