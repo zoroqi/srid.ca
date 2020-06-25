@@ -1,7 +1,7 @@
 ---
 date: 2020-06-25
 tags:
-  - reflex
+  - reflex/tip
 ---
 
 # Autofocus an element in Reflex
