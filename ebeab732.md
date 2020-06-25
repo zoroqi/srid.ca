@@ -10,10 +10,14 @@ tags:
 This does not reliably work, especially on mobile browsers.
 
 ```haskell
-ready <- delay 0.1 =<< getPostBuild
-searchElem <- inputElement def
-widgetHold_ blank $ ffor ready $ \() ->
-  focus $ _inputElement_raw searchElem
+import GHCJS.DOM.HTMLElement (focus)
+import GHCJS.DOM.Types (IsHTMLElement, MonadJSM)
+
+widgetFunc = do
+  ready <- delay 0.1 =<< getPostBuild
+  searchElem <- inputElement def
+  widgetHold_ blank $ ffor ready $ \() ->
+    focus $ _inputElement_raw searchElem
 ```
 
 
