@@ -8,7 +8,7 @@ I'm presently focused on the <b6df4059?cf> project, as well as the upcoming [**C
 
 ## Navigating this site
 
-Start from one of <2009701?cf>, <2009702?cf> and <2012302?cf> ... or peruse the hand-picked timeline of notes below.
+Start from either <82705929?cf> or <2012302?cf> ... or peruse the hand-picked timeline of notes below.
 
 <z:zettels?tag=timeline/**&timeline&cf>
 
