@@ -6,7 +6,7 @@ tags:
 
 # Stop dissociating; *be* your feelings
 
-People tend to develop a sort of numbness towards their feelings. This is what everyday normal dissociation is. In spirituality, this dissociative tendency is heightened to the nth degree[^goenka]. In actualism, one needs to get back to *being* their feelings before engaging <603fe2cd?cf>. 
+People tend to develop a sort of numbness towards their feelings. This is what everyday normal dissociation is. In spirituality, this dissociative tendency is heightened to the nth degree[^goenka]. In actualism, one needs to get back to *being* their feelings, because <2d1a2ec8?cf>.
 
 srinathjelly on Apr, 2020:
 
