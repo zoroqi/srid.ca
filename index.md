@@ -1,6 +1,6 @@
 # Sridhar Ratnakumar
 
-![avatar](https://srid.keybase.pub/me.jpeg){#avatar .ui .right .floated .small .image}
+![avatar](static/favicon.jpeg){#avatar .ui .right .floated .small .image}
 
 Welcome to the personal home page of **Sridhar Ratnakumar**, a passionate Haskeller (<2009703?cf>) and actualist (<7c5337fc?cf>). 
 
