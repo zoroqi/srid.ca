@@ -1,0 +1,16 @@
+{
+  "short_name": "Srid's website",
+  "name": "Sridhar Ratnakumar",
+  "description": "Personal website and notes of Sridhar Ratnakumar",
+  "start_url": "/z-index.html",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#3367D6",
+  "shortcuts": [
+    {
+      "name": "Actualism Method",
+      "url": "/7c5337fc.html"
+    }
+  ]
+}
