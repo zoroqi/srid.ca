@@ -5,7 +5,7 @@ date: 2020-07-02
 # Using Twitter
 
 {.ui .message}
-This is a work-in-progress note
+This is a work-in-progress note, created on the day I decided to re-join Twitter. Over the coming weeks, I'll see how this experiment goes and update this note accordingly.
 
 I'm not a huge fan of Twitter for several reasons; however, there is one good reason to be on Twitter: **social engagement**.[^not-just-twitter]
 
