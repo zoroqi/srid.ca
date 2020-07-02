@@ -9,7 +9,7 @@ This is a work-in-progress note, created on the day I decided to [re-join Twitte
 
 I'm not a huge fan of Twitter for several reasons; however, there is one good reason to be on Twitter: **social engagement**.[^not-just-twitter]
 
-[^not-just-twitter]: Of course that can be said for any platform where people participate and interact with one another.
+[^not-just-twitter]: Of course that can be said for any platform where people participate and interact with one another: reddit, Zulip, Slack, Discord, etc.
 
 ## Twitter codes
 
