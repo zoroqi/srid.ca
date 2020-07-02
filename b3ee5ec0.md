@@ -15,6 +15,7 @@ I'm not a huge fan of Twitter for several reasons; however, there is one good re
 
 - Restrict Twitter use (don't monitor all day)
 - Mute annoying people
-- ...
+- Don't follow people who tweet with a negative vibe
+  - Often a case with the "woke" crowd.
 
 
