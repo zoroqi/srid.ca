@@ -15,7 +15,8 @@ I'm not a huge fan of Twitter for several reasons; however, there is one good re
 
 - Restrict Twitter use (don't monitor all day)
 - Mute annoying people
-- Don't follow people who tweet with a negative vibe
+- Don't follow people who tweet with a negative vibe[^vibe]
   - Often the case with the "woke" crowd.
 
+[^vibe]: Appearing negative (eg: when criticizing something) is not the same thing as emanating a negative **vibe**. Cf. <2015101?cf>. 
 
