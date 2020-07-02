@@ -19,5 +19,11 @@ I'm not a huge fan of Twitter for several reasons; however, there is one good re
 - Mute people who tweet with a negative vibe[^vibe].
   - This is especially the case with the "woke" crowd.
 
+## Tools
+
+- Remove distracting rubbish 
+  - On desktop, use [Minimal Twitter](https://chrome.google.com/webstore/detail/minimal-twitter/pobhoodpcipjmedfenaigbeloiidbflp/related?hl=en)
+  - On mobile, ... ?
+
 [^vibe]: Appearing negative (eg: when criticizing something) is not the same thing as emanating a negative **vibe**. Cf. <2015101?cf>. 
 
