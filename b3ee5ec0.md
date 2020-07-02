@@ -7,7 +7,7 @@ date: 2020-07-02
 {.ui .message}
 This is a work-in-progress note
 
-I'm not a huge fan of Twitter for several reasons; however, there is one good reason to be on Twitter: **social engagement**.
+I'm not a huge fan of Twitter for several reasons; however, there is one good reason to be on Twitter: **social engagement**. Of course that can be said for any platform where people participate and interact with one another.
 
 ## Twitter codes
 
