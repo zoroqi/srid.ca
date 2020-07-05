@@ -14,7 +14,7 @@ I'm not a huge fan of Twitter for several reasons; however, there is one good re
 ## Twitter codes
 
 - Restrict Twitter use (don't monitor all day)
-- Stick to programming content 
+- Use it mostly for programming content 
   - Twitter is unsuited for <1f881332?cf>.
 - Mute people who tweet with a negative vibe[^vibe].
   - This is especially the case with the "woke" crowd.
