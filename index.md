@@ -4,7 +4,7 @@
 
 Welcome to the personal home page of **Sridhar Ratnakumar**, a passionate Haskeller (<2009703?cf>) and actualist (<7c5337fc?cf>). 
 
-{.ui .brown .compact .raised .segment}
+{.ui .compact .stacked .segment}
 My current projects are <b6df4059?cf> and [**Cerveau**](https://www.cerveau.app/). I'm also available for part-time consulting services related to Haskell, Nix and Reflex FRP (contact details in [my résumé]( https://srid.keybase.pub/resume.pdf)).
 
 ## Navigating this site
