@@ -2,7 +2,7 @@
 date: 2020-07-02
 ---
 
-# Using Twitter
+# Twitter for Hackers
 
 {.ui .message}
 This is a work-in-progress note, created on the day I decided to [re-join Twitter](https://twitter.com/sridca). Over the coming weeks, I'll see how this experiment goes and update this note accordingly.
@@ -15,7 +15,7 @@ I'm not a huge fan of Twitter for several reasons; however, there is one good re
 
 - Restrict Twitter use (don't monitor all day)
 - Use it mostly for programming content 
-  - Twitter is unsuited for <1f881332?cf>.
+  - Twitter is unsuited[^anon] for <1f881332?cf>.
 - Mute people who tweet with a negative vibe[^vibe].
   - This is especially the case with the "woke" crowd.
 - Above all, use it for interacting with people, encouraging a felicitous, innocuous and learning ambiance.
@@ -29,3 +29,5 @@ I'm not a huge fan of Twitter for several reasons; however, there is one good re
   - On mobile, ... ?
 
 [^clickbait]: Especially the clickbait content that Twitter forces into your valuable attention.
+
+[^anon]: If you really must make your opinions known, [do it anonymously](https://uglyduck.ca/blog-anonymously/) to [isolate yourself from online mobs](https://news.ycombinator.com/item?id=23789621).
