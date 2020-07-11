@@ -30,4 +30,4 @@ I'm not a huge fan of Twitter for several reasons; however, there is one good re
 
 [^clickbait]: Especially the clickbait content that Twitter forces into your valuable attention.
 
-[^anon]: If you really must make your opinions known, [do it anonymously](https://uglyduck.ca/blog-anonymously/) to [isolate yourself from online mobs](https://news.ycombinator.com/item?id=23789621).
+[^anon]: If you really must make your unpopular opinions known, [do it anonymously](https://uglyduck.ca/blog-anonymously/) to [isolate yourself from online mobs](https://news.ycombinator.com/item?id=23789621).
