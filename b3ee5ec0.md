@@ -2,7 +2,7 @@
 date: 2020-07-02
 ---
 
-# Twitter for Hackers
+# Using Twitter sensibly 
 
 I'm not a huge fan of Twitter for several reasons; however, there is one good reason to be on Twitter: **social engagement**.[^not-just-twitter]
 
