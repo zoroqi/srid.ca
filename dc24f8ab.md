@@ -6,7 +6,7 @@ tags:
 
 # Undermining the geek identity
 
-Geeks, or more specifically hackers[^esr], used to treat their craft as a source of meaning[^ikigai], going contrary to the normative values likes "[sex, money, and social approval](http://www.catb.org/esr/faqs/hacker-howto.html)". In modern times, where "tech" provides financially stable careers to plenty, this dynamic has somewhat reversed among a growing group of people. It has become fashionable to undermine one's geek interests, so as to normalize what's already "normal" (for example, <b0f8727d>) outside tech.
+Geeks, or more specifically hackers[^esr], used to treat their craft as a source of meaning[^ikigai], going contrary to the normative values likes "[sex, money, and social approval](http://www.catb.org/esr/faqs/hacker-howto.html#believe1)". In modern times, where "tech" provides financially stable careers to plenty, this dynamic has somewhat reversed among a growing group of people. It has become fashionable to undermine one's geek interests, so as to normalize what's already "normal" (for example, <b0f8727d>) outside tech.
 
 Why the [desire to normalize](https://www.youtube.com/watch?v=QereR0CViMY) at all? Does it not go against the much touted, but rarely followed, value of "diversity"?
 
