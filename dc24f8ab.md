@@ -1,5 +1,7 @@
 ---
 date: 2020-07-11
+tags:
+  - social-conditioning
 ---
 
 # Undermining the geek identity
