@@ -4,9 +4,6 @@ date: 2020-07-02
 
 # Twitter for Hackers
 
-{.ui .message}
-This is a work-in-progress note, created on the day I decided to [re-join Twitter](https://twitter.com/sridca). Over the coming weeks, I'll see how this experiment goes and update this note accordingly.
-
 I'm not a huge fan of Twitter for several reasons; however, there is one good reason to be on Twitter: **social engagement**.[^not-just-twitter]
 
 [^not-just-twitter]: Of course that can be said for any platform where people participate and interact with one another: reddit, Zulip, Slack, Discord, etc.
