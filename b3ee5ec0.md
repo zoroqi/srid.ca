@@ -14,7 +14,7 @@ I'm not a huge fan of Twitter for several reasons; however, there is one good re
 - Use it mostly for programming content 
   - Twitter is unsuited[^anon] for <1f881332?cf>.
 - Mute people who tweet with a negative vibe[^vibe].
-  - This is especially the case with the "woke" crowd.
+  - This is especially the case with the "[woke](https://newdiscourses.com/tftw-woke-wokeness/)" crowd.
 - Above all, use it for interacting with people, encouraging a felicitous, innocuous and learning ambiance.
 
 [^vibe]: Appearing negative (eg: when criticizing something) is not the same thing as emanating a negative **vibe**. See [Experimental evidence of massive-scale emotional contagion through social networks](https://www.pnas.org/content/111/24/8788). Cf. <2015101?cf>. 
