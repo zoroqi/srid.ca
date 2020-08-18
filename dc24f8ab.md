@@ -6,7 +6,7 @@ tags:
 
 # The Familial Cave
 
-Geeks, or more specifically hackers[^def], used to treat their craft as a source of meaning[^ikigai], going contrary to the normative values likes "sex, money, and social approval"[^sex]. In modern times, where "tech" provides financially stable careers to plenty, this dynamic has somewhat reversed among a growing group of people. It has become fashionable to undermine one's geek interests, so as to normalize what's already "normal" (for example, <b0f8727d>) outside tech - by, for example, belaboring the importance of the social instituitions[^clarify] of love, family, children. This is called the familial cave.[^origin]
+Geeks, or more specifically hackers[^def], used to treat their craft as a source of meaning[^ikigai], going contrary to the normative values likes "sex, money, and social approval"[^sex]. In modern times, where "tech" provides financially stable careers to plenty, this dynamic has somewhat reversed among a growing group of people. It has become fashionable to undermine one's geek interests, so as to normalize what's already "normal" outside tech - by, for example, belaboring the importance of the social instituitions[^clarify] of love, family, children. This is called the familial cave.[^origin]
 
 [^def]: 
     **hacker: n.** An expert or enthusiast of any kind. One might be an astronomy hacker, for example. --[The Jargon File](http://www.catb.org/jargon/html/H/hacker.html)
