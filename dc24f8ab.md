@@ -22,7 +22,7 @@ Geeks, or more specifically hackers[^def], used to treat their craft as a source
 
 Why the [desire to normalize](https://www.youtube.com/watch?v=QereR0CViMY) at all? Does it not go against the much touted, but rarely followed, value of "diversity"?
 
-![](https://lh3.googleusercontent.com/H7jEGdUPfBY7BXHwrLeDqRZc9_EDAyR3OC0vrZ7RViFynuWHmaofoJPGAll8-eco7iMsf5mR6-3Uh6fhZUzewQc_Kmbiw-2y6B0DlkryIzJic1AAPCAmoVK6ImaL1Rp5KcZ-FGFY0UnjhiH6Iwxotb047vRNJMsjYsGcHpojFBmvQe5luWmu2C56JsLWNNI2W7zWF7L1zF7fpG2KaMbtq7-qOrBWqTtgLoiuGrQz5zmD6lakEs61VXJzhy8wtOPpwbCxIyO67JSCLjVwc85JKmUuqD6Q_AZDKtyEuQW5cfcTbD1nF_xaZYALZblgJ2Wt62QJLlPRu3XBjdOQpfibeRTqv4MRUTMbOWMKp3uT1QsxKd0657WHbQuZnqC07FY-4BjUaxG1qmjLw1bvWPlIkxvo0Gps2o9en-FF1C8CfS2aWG_rmMiboZ3AQjYY4xLnOM8sleIJ0sGWeg8X_zzogx1EuD-hctbUm5EAZrR3AkkzyD-7kiOLBqCXCbFWp3fXFHFe2HMhE5KiX1wYhRkTH2EwJDZLtY9x7za5Q14iz5wjpDVyBy55JJ2DMLNKWhYPvXyQMOes4Af_u19rtx1XauZvHTPhVJ2_-OcIcrTThXX8yTO_i7sEPAVv7Wei50sn8t-4l6Yz0jX9XgLl_ufYlj4sqyfxElh1oFf_D5O8vwaiqSwW5aYxX63ZRm15poc=w500-h563-no?authuser=0){.ui .centered .medium .image}
+![](./static/montyindividual.png){.ui .centered .medium .image}
 
 ## Instances
 
