@@ -40,4 +40,8 @@ Some examples:
 * The lack of freedom to do the things one would want to do in life, if it not for the instinctual constraints
 * The rationalization of one's bondage by downplaying anyone who lives more freely
 
+## See also
+
+* <5cde9fd6?cf>
+
 [^need]: It is of course more accurate to describe this as a "desire" than a "need". The need to belong is unlike say the need for air and water; as you can live without the former (happily in fact).
