@@ -26,9 +26,9 @@ Why the [desire to normalize](https://www.youtube.com/watch?v=QereR0CViMY) at al
 
 ## Instances
 
-Some contexts from Twitter (where low-effort posts abound, and thoughtless factoids spread like wildfire):
+Some examples:
 
-* On what "actually matters" in life: <https://twitter.com/sjsyrek/status/1276848455705604096>
+* On what "actually matters" in life ("_I think relationships matter more than anything else._"): <https://twitter.com/sjsyrek/status/1276848455705604096>
 
 ## Underlying Psychology
 
