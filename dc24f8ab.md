@@ -4,9 +4,9 @@ tags:
   - social-conditioning
 ---
 
-# The Familial Cave
+# Covert Social Conservatism
 
-Geeks, or more specifically hackers[^def], used to treat their craft as a source of meaning[^ikigai], going contrary to the normative values likes "sex, money, and social approval"[^sex]. In modern times, where "tech" provides financially stable careers to plenty, this dynamic has somewhat reversed among a growing group of people. It has become fashionable to undermine one's geek interests, so as to normalize what's already "normal" outside tech - by, for example, belaboring the importance of the social instituitions[^clarify] of love, family, children. This is called the familial cave.[^origin]
+Geeks, or more specifically hackers[^def], used to treat their craft as a source of meaning[^ikigai], going contrary to the normative values likes "sex, money, and social approval"[^sex]. In modern times, where "tech" provides financially stable careers to plenty, this dynamic has somewhat reversed among a growing group of people. It has become fashionable to undermine one's geek interests, so as to normalize what's already "normal" outside tech - by, for example, belaboring the importance of the social instituitions[^clarify] of love, family, children.
 
 [^def]: 
     **hacker: n.** An expert or enthusiast of any kind. One might be an astronomy hacker, for example. --[The Jargon File](http://www.catb.org/jargon/html/H/hacker.html)
@@ -17,8 +17,6 @@ Geeks, or more specifically hackers[^def], used to treat their craft as a source
     > If you aren't the kind of person that feels this way [a basic thrill from solving problems, sharpening your skills, and exercising your intelligence] naturally, you'll need to become one in order to make it as a hacker. Otherwise you'll find your hacking energy is sapped by distractions like sex, money, and social approval. --[How To Become A Hacker](http://www.catb.org/esr/faqs/hacker-howto.html#believe1)
 
 [^clarify]: Here, we are referring only to the whole (brainwashed) social identity formed around the otherwise carefree and idiosyncratic acts like raising children or sharing roof with fellow human beings.
-
-[^origin]: Derived from [the allegory of the cave](https://en.wikipedia.org/wiki/Allegory_of_the_cave).
 
 Why the [desire to normalize](https://www.youtube.com/watch?v=QereR0CViMY) at all? Does it not go against the much touted, but rarely followed, value of "diversity"?
 
@@ -31,8 +29,6 @@ Some examples:
 * On what "actually matters" in life ("_I think relationships matter more than anything else._"): <https://twitter.com/sjsyrek/status/1276848455705604096>
 
 ## Underlying Psychology
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Platon_Cave_Sanraedam_1604.jpg/560px-Platon_Cave_Sanraedam_1604.jpg){.ui .right .floated .small .image}
 
 * The human "need"[^need] to belong
 * The strong desire for love, and to be loved
