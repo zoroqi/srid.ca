@@ -6,10 +6,6 @@ Welcome to the personal home page of **Sridhar Ratnakumar**, a passionate Haskel
 
 My current projects are <b6df4059?cf> and [**Cerveau**](https://www.cerveau.app/). I'm also available for part-time consulting services related to Haskell, Nix and Reflex FRP (contact details in [my résumé](./static/resume.pdf)).
 
-## Navigating this site
-
-Start from either [[82705929]] or [[2012302]] ... or peruse the hand-picked timeline of notes below.
-
 [[z:zettels?tag=timeline/**&timeline]]
 
 For a complete timeline, see [[[356bec10]]].
