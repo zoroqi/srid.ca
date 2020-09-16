@@ -73,13 +73,10 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 <span class="kw">set</span><span class=""> </span><span class="ex">-xe</span>
 
 <span class="va">CONFIGURATIONNIX=$1</span>
-<span class="va">METAIMG=</span><span class="kw">`</span><span class="ex">nixos-generate</span><span class=""> -f lxc-metadata \</span>
-<span class="">  </span><span class="kw">|</span><span class=""> </span><span class="fu">xargs</span><span class=""> -r cat \</span>
-<span class="">  </span><span class="kw">|</span><span class=""> </span><span class="fu">awk</span><span class=""> </span><span class="st">&#39;{print $3}&#39;</span><span class="kw">`</span>
-<span class="va">IMG=</span><span class="kw">`</span><span class="ex">nixos-generate</span><span class=""> -c </span><span class="va">${CONFIGURATIONNIX}</span><span class=""> -f lxc \</span>
-<span class="">  </span><span class="kw">|</span><span class=""> </span><span class="fu">xargs</span><span class=""> -r cat \</span>
-<span class="">  </span><span class="kw">|</span><span class=""> </span><span class="fu">awk</span><span class=""> </span><span class="st">&#39;{print $3}&#39;</span><span class="kw">`</span>
+<span class="va">METAIMG=</span><span class="kw">`</span><span class="ex">nixos-generate</span><span class=""> -f lxc-metadata</span><span class="kw">`</span>
+<span class="va">IMG=</span><span class="kw">`</span><span class="ex">nixos-generate</span><span class=""> -c </span><span class="va">${CONFIGURATIONNIX}</span><span class=""> -f lxc</span><span class="kw">`</span>
 
+<span class="ex">lxc</span><span class=""> image delete nixos </span><span class="kw">||</span><span class=""> </span><span class="bu">echo</span><span class=""> true</span>
 <span class="ex">lxc</span><span class=""> image import --alias nixos </span><span class="va">${METAIMG}</span><span class=""> </span><span class="va">${IMG}</span>
 </code></pre></div><p>You will need a <code>configuration.nix</code> (see <a href="https://github.com/srid/nix-config/blob/master/lxc/configuration.nix">mine</a>) to build a NixOS image, using this script:</p><div class="pandoc-code highlighted"><pre><code class="bash"><span class="co"># Builds the &quot;nixos&quot; lxc image</span>
 <span class="ex">./buildLxcImage.sh</span><span class=""> configuration.nix</span>
