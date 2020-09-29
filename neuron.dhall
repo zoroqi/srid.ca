@@ -9,6 +9,7 @@
   , "calisthenics:1915701"
   , "sous-vide:1919301"
   , "1918401:carnivore-diet"
+  , "b6df4059:neuron"
   ]
 , editUrl = Some "https://github.com/srid/srid.ca/edit/master/"
 , mathJaxSupport = False
