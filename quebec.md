@@ -2,7 +2,9 @@
 date: 2020-10-01T11:31
 ---
 
-# quebec
+# Québec
 
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
+In 2017 I decided to leave the Canadian West, where I had been living for nearly 6 years, and move to the province of [Québec] - with the intention of living in an environment with ambiance different to the one of the Anglophone part of the country.
+
+[Québec]: https://en.wikipedia.org/wiki/Quebec
 
