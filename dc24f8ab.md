@@ -32,12 +32,12 @@ Some examples:
 
 * The human "need"[^need] to belong
 * The strong desire for love, and to be loved
-* The believed inability to break free of these bonds
-* The lack of freedom to do the things one would want to do in life, if it not for the instinctual constraints
-* The rationalization of one's bondage by downplaying anyone who lives more freely
+* The *believed* inability to break free of these bonds
+* The perceived lack of freedom to do the things one would want to do in life, if it not for the instinctual constraints
+* The rationalization of one's bondage; and downplaying of anyone that contradicts that belief by living more freely
 
 ## See also
 
-* <5cde9fd6?cf>
+* [[5cde9fd6]]
 
 [^need]: It is of course more accurate to describe this as a "desire" than a "need". The need to belong is unlike say the need for air and water; as you can live without the former (happily in fact).
