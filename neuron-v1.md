@@ -1,14 +1,14 @@
 ---
-date: 2020-10-09
+date: 2020-10-08
 ---
 
 # Neuron 1.0 released
 
-[[neuron]] ([GitHub repo](https://github.com/srid/neuron)) is a note-taking tool based on [Zettelkasten](https://neuron.zettel.page/zettelkasten.html), that aims to be [future-proof](https://neuron.zettel.page/philosophy.html). Version [1.0](https://github.com/srid/neuron/releases/tag/1.0.0.0) just got released, with better linking support and many other improvements.
+[[neuron]] ([GitHub repo](https://github.com/srid/neuron)) is a note-taking tool based on [Zettelkasten](https://neuron.zettel.page/zettelkasten.html), that aims to be [future-proof](https://neuron.zettel.page/philosophy.html), and is optimized for publishing on the web. Version [1.0](https://github.com/srid/neuron/releases/tag/1.0.0.0) just got released, with better linking support and many other improvements.
 
 ## Better Linking
 
-Neuron now supports **wiki-links**, the same syntax used by other software like Zettlr or Obsidian. If your note file is named "inbox.md", you can link to it using `[[neuron-v1]]`. **Regular Markdown links** also now works as they should -- for example, `[neuron-v1.md](Neuron v1.0 released!)` works exactly like the wiki-link syntax in that it will be recognized as a Zettelkasten connection.
+Neuron now supports **wiki-links**, the same syntax used by other software like Zettlr and Obsidian. If your note file is named "neuron-v1.md", you can link to it using `[[neuron-v1]]`. **Regular Markdown links** also now works as they should -- for example, `[Neuron v1.0 released](neuron-v1.md)` works exactly like the wiki-link syntax in that it will be recognized as a Zettelkasten connection.
 
 ![Cerveau wikilink demo](./static/cerveau-wikilink-compl.gif)
 
@@ -20,11 +20,9 @@ Previous versions of neuron required you to pass an explicit `-d` argument when 
 
 ## Static binaries
 
-Some users do not wish to install Nix, and they [requested static binaries](https://github.com/srid/neuron/issues/183). We now have a static binary for neuron, albeit only for Linux.
+Some users do not wish to install Nix, and they [requested static binaries](https://github.com/srid/neuron/issues/183). We now have a static binary[^nix] for neuron, albeit only for Linux.
 
-:::{.ui .message}
-The static binaries are built using Nix itself; see [[db359075]].
-:::
+[^nix]: The static binaries are built using Nix itself; see [[db359075]].
 
 ## Other improvements
 
@@ -40,7 +38,7 @@ See [the release notes](https://github.com/srid/neuron/releases/tag/1.0.0.0) for
 
 ## Cerveau
 
-[Cerveau](https://www.cerveau.app) is now officially out of public beta. Since the public beta (announced at [[689c4a39]]), the following improvements were made:
+[Cerveau](https://www.cerveau.app), the web app for neuron, is now officially out of public beta. Since the public beta (announced at [[689c4a39]]), the following improvements were made:
 
 1. **MathJax Live Preview** (see below)
 2. **WikiLink autocomplete** (see above)
@@ -52,9 +50,11 @@ See [the release notes](https://github.com/srid/neuron/releases/tag/1.0.0.0) for
 
 ## Future of neuron
 
-Now that version 1.0 is released, I see  two major focus-areas for future-proof open source note-taking -- performance & extensibility. **Performance** is important for especially large Zettelkastens (think - over 50000 notes), and **extensibility** enables us to keep neuron's core small and simple, while allowing users to enrich their notebook with interesing features (eg: flash cards, task management, [self-tracking](https://www.gibney.de/a_syntax_for_self-tracking), [Pandoc filters](https://github.com/srid/neuron/issues/228#issuecomment-670290253)) without complicating neuron itself.
+Now that version 1.0 is released, I see  two major focus-areas for future-proof open source note-taking -- performance & extensibility. **Performance** is important for especially large Zettelkastens (think - over 50000 notes), and **extensibility** enables us to keep neuron's core small and simple, while allowing users to enrich their notebook with interesting features (eg: flash cards, task management, [self-tracking](https://www.gibney.de/a_syntax_for_self-tracking), [Pandoc filters](https://github.com/srid/neuron/issues/228#issuecomment-670290253)) without complicating neuron itself.
 
-To achieve this, I'm working on a new core for neuron, called [`ka`](https://github.com/srid/ka) that eventually will supplant rib/shake used currently in neuron. `ka` uses Functional Reactive Programming to provide a reactive build pipeline[^ghcide] specifically geared towards note-taking, as well as plugin mechanism to customize the behaviour of the application at various stages.
+To achieve this, I'm working on a new (independent) core for neuron, called [`ka`](https://github.com/srid/ka) (named after [the Egyptian concept][ka-name]) that eventually will supplant rib/shake used currently in neuron. `ka` uses Functional Reactive Programming to provide a reactive build pipeline[^ghcide] specifically geared towards note-taking, as well as plugin mechanism to customize the behaviour of the application at various stages.
+
+[ka-name]: https://en.wikipedia.org/w/index.php?title=Ancient_Egyptian_conception_of_the_soul&oldid=972528324#Ka_(vital_essence)
 
 ---
 
