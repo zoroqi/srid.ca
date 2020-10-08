@@ -15,7 +15,7 @@ Neuron now supports **wiki-links**, the same syntax used by other software like 
 
 ![Cerveau wikilink demo](./static/cerveau-wikilink-compl.gif)
 
-Finally, neuron allows **arbitrary title** in the note filename. For example, you can start writing a note saved in the file `Neuron v1.0 released.md`, and link to it from other notes as `[[Neuron v1.0 released]]`. This is called a [title ID](https://neuron.zettel.page/id.html). The title of the note is automatically inferred from this filename, unless of course you explicitly specify one in the body of the note.
+Finally, neuron allows **arbitrary title** in the note filename. For example, you can start writing a note saved in the file `Neuron v1.0 released.md`, and link to it from other notes as `[[Neuron v1.0 released]]`. This is called a [title ID](https://neuron.zettel.page/id.html). The title of the note is automatically inferred from this filename, unless of course you explicitly specify one in the body of the note (which title ID obviates).
 
 ## Git-like CLI
 
