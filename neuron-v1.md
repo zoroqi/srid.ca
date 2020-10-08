@@ -32,7 +32,7 @@ Some users do not wish to install Nix, and they [requested static binaries](http
 Other notable changes include:
 
 - **Inline tags**: You can inline your tags in your notes, so writing `#foo` will automatically tag the note with "foo".
-- **Better unicode support**: Note files can be named in your language, eg: `计算机.md` and then linking to it as `[[计算机]]`.
+- **Better unicode support**: Now filenames are also unicode-aware. You can write in `计算机.md` and then link to it as `[[计算机]]`.
 - **Custom JavaScript**: Insert custom JavaScript or head HTML in generated site by adding a `head.html` file to your notebook. Users use this to do anything from using a different Math library (KaTeX) to [adding a navigation bar](https://truong.io/notes/).
 - **All backlinks**: Backlinks panel now shows all backlinks (including folgezettel)
 - .. and more
