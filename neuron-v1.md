@@ -1,5 +1,8 @@
 ---
 date: 2020-10-08
+tags: 
+  - project/neuron
+  - timeline
 ---
 
 # Neuron 1.0 released
