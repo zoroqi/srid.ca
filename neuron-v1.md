@@ -55,7 +55,7 @@ See [the release notes](https://github.com/srid/neuron/releases/tag/1.0.0.0) for
 
 Now that version 1.0 is released, I see  two major focus-areas for future-proof open source note-taking -- performance & extensibility. **Performance** is important for especially large Zettelkastens (think - over 50000 notes), and **extensibility** enables us to keep neuron's core small and simple, while allowing users to enrich their notebook with interesting features (eg: flash cards, task management, [self-tracking](https://www.gibney.de/a_syntax_for_self-tracking), [Pandoc filters](https://github.com/srid/neuron/issues/228#issuecomment-670290253)) without complicating neuron itself.
 
-To achieve this, I'm working on a new (independent) core for neuron, called [`ka`](https://github.com/srid/ka) (named after [the Egyptian concept][ka-name]) that eventually will supplant rib/shake used currently in neuron. `ka` uses Functional Reactive Programming to provide a reactive build pipeline[^ghcide] specifically geared towards note-taking, as well as plugin mechanism to customize the behaviour of the application at various stages.
+To achieve this, I'm working on a new (independent) core for neuron, called [[ka]] (named after [the Egyptian concept][ka-name]) that eventually will supplant rib/shake used currently in neuron. `ka` uses Functional Reactive Programming to provide a reactive build pipeline[^ghcide] specifically geared towards note-taking, as well as plugin mechanism to customize the behaviour of the application at various stages.
 
 [ka-name]: https://en.wikipedia.org/w/index.php?title=Ancient_Egyptian_conception_of_the_soul&oldid=972528324#Ka_(vital_essence)
 
