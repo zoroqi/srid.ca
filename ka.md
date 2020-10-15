@@ -2,7 +2,18 @@
 date: 2020-10-15T14:49
 ---
 
-# ka
+# Ka
 
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
+`ka` is in active research phase, and is highly volatile.
 
+Project goals:
+
+1. Fast build system
+2. Extensible via plugins
+3. UX optimized for navigating private notebooks
+
+The first two goals in particular are relevant for preparing `ka` to eventually supplant rib and shake in [[neuron]].
+
+## Early Access
+
+[[neuron]] sponsors get early access to `ka` source code, which can be utilized to run it locally on your notes.
