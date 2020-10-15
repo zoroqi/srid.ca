@@ -28,3 +28,6 @@ The first two goals in particular are relevant for preparing `ka` to eventually 
     - Self-tracking
     - Calendar of daily notes
     - Smart review of old cards (uses last-modified or git history)
+    - Folgezettel linking (`[[[..]]]`) of neuron
+    - [Link queries](https://neuron.zettel.page/link-query.html) of neuron
+    
