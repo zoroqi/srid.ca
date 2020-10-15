@@ -9,7 +9,7 @@ date: 2020-10-15T14:49
 Project goals:
 
 1. Fast build system
-2. Extensible via plugins
+2. Extensible via plugins[^plugins]
 3. UX optimized for navigating private notebooks
 
 The first two goals in particular are relevant for preparing `ka` to eventually supplant rib and shake in [[neuron]].
@@ -20,3 +20,11 @@ The first two goals in particular are relevant for preparing `ka` to eventually 
 
 [sponsors]: https://github.com/sponsors/srid
 [email]: mailto:srid@srid.ca
+
+[^plugins]:
+    Here's a potential list of plugins:
+    - Task management (gather GFM checklists)
+    - Flash cards
+    - Self-tracking
+    - Calendar of daily notes
+    - Smart review of old cards (uses last-modified or git history)
