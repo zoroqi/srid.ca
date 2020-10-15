@@ -16,7 +16,7 @@ The first two goals in particular are relevant for preparing `ka` to eventually 
 
 ## Early Access
 
-[[neuron]] [sponsors] may get early access to `ka` source code, which can be utilized to run it locally on your notes. If you are a sponsor, please [email me][email] your GitHub user name - so that I can add you as a repository collaborator.
+[[neuron]] [sponsors] may get early access to `ka` source code, which can be utilized to run it locally on your notes. If you are a (tier 2+) sponsor, please [email me][email] your GitHub user name - so that I can add you as a repository collaborator.
 
 [sponsors]: https://github.com/sponsors/srid
 [email]: mailto:srid@srid.ca
