@@ -4,7 +4,7 @@ date: 2020-10-15T14:49
 
 # Ka
 
-`ka` is in active research phase, and is highly volatile.
+`ka` is already functional but still in ongoing research phase.
 
 Project goals:
 
