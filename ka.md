@@ -16,4 +16,6 @@ The first two goals in particular are relevant for preparing `ka` to eventually 
 
 ## Early Access
 
-[[neuron]] sponsors get early access to `ka` source code, which can be utilized to run it locally on your notes.
+[[neuron]] [sponsors] get early access to `ka` source code, which can be utilized to run it locally on your notes.
+
+[sponsors]: https://github.com/sponsors/srid
