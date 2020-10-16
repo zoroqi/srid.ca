@@ -4,7 +4,7 @@ date: 2020-10-15T14:49
 
 # Ka
 
-`ka` is already functional but still in ongoing research phase. It uses a FRP ([[2012405]]) based reactive build system as the engine for managing notes, as well provides an interactive user interface to navigate the notes in an extensible structured fashion.
+`ka` (originally announced in [[neuron-v1]]) is already functional but still in ongoing research phase. It uses a FRP ([[2012405]]) based reactive build system as the engine for managing notes, as well provides an interactive user interface to navigate the notes in an extensible structured fashion.
 
 Project goals:
 
