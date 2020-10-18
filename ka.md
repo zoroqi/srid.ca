@@ -31,3 +31,6 @@ The first two goals in particular are relevant for preparing `ka` to eventually 
     - Folgezettel linking (`[[[..]]]`) of neuron
     - [Link queries](https://neuron.zettel.page/link-query.html) of neuron
     
+## Links
+
+* [Short video demo of Ka at Twitter](https://twitter.com/sridca/status/1317218846026117125)
