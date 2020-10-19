@@ -6,7 +6,11 @@ date: 2020-10-15T14:49
 
 `ka` (originally announced in [[neuron-v1]]) is already functional but still in ongoing research phase (see [a short demo][twitdemo]). It uses a FRP ([[2012405]]) based reactive build system as the engine for managing notes, as well provides an interactive user interface to navigate the notes in an extensible structured fashion.
 
-Project goals:
+<video width=100% muted autoplay=true loop=true>
+  <source src="https://srid.keybase.pub/ka.mp4" type="video/mp4" />
+</video>
+
+## Project goals
 
 1. Fast build system
 2. Extensible via plugins[^plugins]
@@ -18,7 +22,7 @@ The first two goals in particular are relevant for preparing `ka` to eventually 
 
 [[neuron]] [sponsors] may get early access to `ka` source code, which can be utilized to run it locally on your notes. If you are a (tier 2+) sponsor, please [email me][email] your GitHub user name - for access to the repository.
 
-## News
+## Project Blog
 
 [[[z:zettels?tag=ka&timeline]]]
 
