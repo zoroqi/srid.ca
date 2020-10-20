@@ -4,7 +4,7 @@
 
 Welcome to the personal homepage of **Sridhar Ratnakumar**, a passionate Haskeller ([[2009703]]) and actualist ([[7c5337fc]]). 
 
-My current projects are [[neuron]] and [**Cerveau**](https://www.cerveau.app/). I'm generally available for part-time consulting services related to Haskell, Nix and/ or Reflex FRP; for contact info and other details, see [my résumé](./static/resume.pdf).
+My current projects are [[neuron]], [[ka]] and [**Cerveau**](https://www.cerveau.app/). I'm generally available for part-time consulting services related to Haskell, Nix and/ or Reflex FRP; for contact info and other details, see [my résumé](./static/resume.pdf).
 
 [[z:zettels?tag=timeline/**&timeline]]
 
