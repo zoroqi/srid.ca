@@ -10,10 +10,9 @@ I'm not a huge fan of Twitter for several reasons; however, there is one good re
 
 ## Twitter codes
 
-- Restrict Twitter use (don't monitor all day)
 - Use it mostly for programming content 
   - Twitter is unsuited[^anon] for <1f881332?cf>.
-- Mute people who tweet with a negative vibe[^vibe].
+- Mute people who tweet with [a negative vibe](https://twitter.com/sridca/status/1317153011169398784).[^vibe]
   - This is especially the case with the "[woke](https://newdiscourses.com/tftw-woke-wokeness/)" crowd.
 - Above all, use it for interacting with people, encouraging a felicitous, innocuous and learning ambiance.
 
