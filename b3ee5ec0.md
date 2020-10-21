@@ -10,7 +10,7 @@ I'm not a huge fan of Twitter for several reasons; however, there is one good re
 
 ## Twitter codes
 
-- Use it mostly for programming content 
+- Use it mostly for creative or interesting content 
   - Twitter is unsuited[^anon] for <1f881332?cf>.
 - Mute people who tweet with [a negative vibe](https://twitter.com/sridca/status/1317153011169398784).[^vibe]
   - This is especially the case with the "[woke](https://newdiscourses.com/tftw-woke-wokeness/)" crowd.
