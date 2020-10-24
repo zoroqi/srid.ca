@@ -1,8 +1,8 @@
 ---
 date: 2020-10-24T11:28
+tags: [social-conditioning]
 ---
 
-# religion
+# Modern Religions
 
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
-
+[[[z:zettels?tag=religion/**&grouped]]]
