@@ -8,6 +8,8 @@ In 2017 I decided to leave the Canadian West, where I had been living for nearly
 
 As an [allophone],[^india] the francophone ambiance comes across to me as more *warm* and *authentic* compared to that of Vancouver & Victoria; and is characterized by a [joie de vivre] more than a [stiff upper lip] outlook.
 
+If you are an outsider, try taking a vacation trip to [Montréal]. 
+
 [[[z:zettels?tag=Quebec]]]
 
 [^india]: I was born and raised in a southern city of the Indian subcontinent, speaking [Tamil] as the native language, where I lived for 23 years before immigrating to Canada.
@@ -17,3 +19,4 @@ As an [allophone],[^india] the francophone ambiance comes across to me as more *
 [stiff upper lip]: https://en.wikipedia.org/wiki/Stiff_upper_lip
 [joie de vivre]: https://en.wikipedia.org/wiki/Joie_de_vivre
 [Tamil]: https://en.wikipedia.org/wiki/Tamils
+[Montréal]: https://en.wikipedia.org/wiki/Montreal
