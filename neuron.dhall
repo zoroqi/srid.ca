@@ -5,7 +5,6 @@
 , aliases =
   [ "haskell-nix:1948201"
   , "lasik:1911401"
-  , "conflicts:1930301"
   , "calisthenics:1915701"
   , "sous-vide:1919301"
   , "1918401:carnivore-diet"
