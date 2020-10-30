@@ -22,7 +22,7 @@ In early 2013 a licensed medical doctor impetuously prescribed me enough antibio
 I suffered with this condition for over 4 years, and saw plethora of licensed dermatologists \(who knew naught but to prescribe ever more antibiotics[^moreanti]\; one even had me do low-dose Accutane). Then, just within two weeks of going on the carnivore diet \(beef, salt and pepper\) my symptoms reduced to about 95%, and further cleared up to 99% when I stopped spices. Over the next years I was to reintroduce several plant foods[^reint]; and everytime I do, my symptoms would come back in vengeance.
 
 :::{.ui .message}
-**Takeaway**: don't blindly trust the doctors, especially when it comes to the topic of antibiotics and diet. Although they generally harbour no ill-intention, they can't help but regurgitate what they had memorized ([with bias][pmasondoc]) in medical school, where [quackery][q1] is [not][q3] very [uncommon][q2].
+**Takeaway**: don't blindly trust the doctors and [nutritionists](https://twitter.com/ifbacongrewont1/status/1322151733326450689), especially when it comes to the topic of antibiotics and diet. Although they generally harbour no ill-intention, they can't help but regurgitate what they had memorized ([with bias][pmasondoc]) in medical school, where [quackery][q1] is [not][q3] very [uncommon][q2].
 :::
 
 [q1]: https://theconversation.com/only-one-in-ten-medical-treatments-are-backed-by-high-quality-evidence-145224
