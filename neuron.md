@@ -8,5 +8,4 @@ date: 2020-05-12
 
 [[[z:zettels?tag=project/neuron&timeline]]]
 
-[[[z:zettels?tag=zettelkasten]]]
 
