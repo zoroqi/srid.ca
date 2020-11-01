@@ -1,6 +1,6 @@
 # Sridhar Ratnakumar
 
-![avatar](static/favicon.jpeg){#avatar .ui .right .floated .small .image}
+![avatar](static/favicon.jpeg){#avatar .ui .right .floated .small .circular .image}
 
 Welcome to my homepage. I'm interested in [[2009703]] as well as [[7c5337fc]]. 
 
