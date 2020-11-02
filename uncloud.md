@@ -24,6 +24,7 @@ Replacement software should be either self-hostaeable or be desktop software tha
 ### Docs (spreadsheets)
 
 - [ ] Find a spreadsheet software, or design a custom app, for personal accounting.
+  - Research [OnlyOffice](https://github.com/ONLYOFFICE/DesktopEditors)
 
 ## See also
 
