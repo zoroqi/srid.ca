@@ -10,16 +10,21 @@ I'm currently dependent on Google for the following services. If Google chooses 
 
 Replacement software should be either self-hostaeable or be desktop software that works locally (with the data synchronized using something like [Syncthing](https://syncthing.net/)).
 
-## Gmail
+## Areas
+
+### Email
 
 - [ ] Email has to be hosted by somebody else for reliability, but to minimize the damage I must use my own domain but not as an alias; as well use a local email client to store email archives locally. 
 
-## Passwords
+### Passwords
 
 - [ ] Find a solution with sync.
   - Explore [KeePass & Syncthing](https://dev.to/rusty_sys_dev/switching-to-keepass-and-syncthing-for-password-management-1klh)
   
-## Docs (spreadsheets)
+### Docs (spreadsheets)
 
 - [ ] Find a spreadsheet software, or design a custom app, for personal accounting.
 
+## See also
+
+- [Zulip thread](https://funprog.srid.ca/random/going-back-to-free-software.html)
