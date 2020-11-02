@@ -12,11 +12,15 @@ Replacement software should be either self-hostable or be desktop software that 
 
 ## Areas
 
+### DNS
+
+- [ ] Using Google Domains at the moment. I have quite a few domains, and this might be a tricky to do right ... 
+
 ### Email
 
 Email has to be hosted by somebody else for reliability, but to minimize the damage use **your own domain**, as well use a **local email client** to store email archives locally. 
 
-I went with continuing to use Gmail, by configuring its "send as" address to use my domain address (whilst using Gmail's smtp addredss). In this way, if Google terminates my account, I can simply redirect my DNS to use a new email provider, with past email still archived locally and potentially imported into this new provider.
+I went with continuing to use Gmail, by configuring its "send as" address to use my domain address (whilst using Gmail's smtp addredss), as well setting up an email alias in DNS for receiving email. In this way, if Google terminates my account, I can simply redirect my DNS to use a new email provider, with past email still archived locally and potentially imported into this new provider.
 
 ### Passwords
 
