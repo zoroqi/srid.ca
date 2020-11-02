@@ -14,7 +14,9 @@ Replacement software should be either self-hostable or be desktop software that 
 
 ### Email
 
-- [ ] Email has to be hosted by somebody else for reliability, but to minimize the damage I must use my own domain but not as an alias; as well use a local email client to store email archives locally. 
+Email has to be hosted by somebody else for reliability, but to minimize the damage use **your own domain**, as well use a **local email client** to store email archives locally. 
+
+I went with continuing to use Gmail, by configuring its "send as" address to use my domain address (whilst using Gmail's smtp addredss). In this way, if Google terminates my account, I can simply redirect my DNS to use a new email provider, with past email still archived locally and potentially imported into this new provider.
 
 ### Passwords
 
