@@ -3,7 +3,9 @@ date: 2020-11-04T14:31
 tags: [nix]
 ---
 
-# Creating a new [[2009703]] project using [[2017102]]
+# Creating a new Haskell project using Nix
+
+With [[58bc09d0]] support too.
 
 ```bash
 nix-shell -p cabal-install -p ghc --run 'cabal init'
