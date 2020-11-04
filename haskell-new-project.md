@@ -1,8 +1,9 @@
 ---
 date: 2020-11-04T14:31
+tags: [nix]
 ---
 
-# Creating a new [[2009703]] project
+# Creating a new [[2009703]] project using [[2017102]]
 
 ```bash
 nix-shell -p cabal-install -p ghc --run 'cabal init'
