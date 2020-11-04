@@ -24,7 +24,7 @@ The first two goals in particular are relevant for preparing `ka` to eventually 
 
 ## Project Blog
 
-[[[z:zettels?tag=ka&timeline]]]
+* <https://ka.srid.ca/Blog.html>
 
 [sponsors]: https://github.com/sponsors/srid
 [email]: mailto:srid@srid.ca
