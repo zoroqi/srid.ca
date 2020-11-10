@@ -4,7 +4,7 @@ date: 2020-11-02T16:51
 
 # Uncloud your software
 
-The **goal** of this project is to eliminate one's dependency on external services, notably Google, such that no matter what these technology companies do, one retains one's data for lifetime.
+The **goal** of this project is to eliminate one's dependency on external services beyond one's control, notably Google, such that no matter what these technology companies do, one retains one's *data* for lifetime.
 
 I'm currently dependent on Google for the following services. If Google chooses to [lock my account indefinitely](http://web.archive.org/web/20201102161748/https://www.businessinsider.com/google-users-locked-out-after-years-2020-10) I'd permanently lose access to my data. So it is important to find replacements.
 
