@@ -9,6 +9,8 @@
   , "sous-vide:1919301"
   , "1918401:carnivore-diet"
   , "b6df4059:neuron"
+  , "2012403:obelisk"
+  , "2012401:rhyolite"
   ]
 , editUrl = Some "https://github.com/srid/srid.ca/edit/master/"
 , mathJaxSupport = False
