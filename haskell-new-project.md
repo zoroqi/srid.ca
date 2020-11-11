@@ -10,7 +10,7 @@ With [[58bc09d0]] support too.
 ```bash
 PKGNAME=foo
 mkdir $PKGNAME && cd $PKGNAME
-nix-shell -p cabal-install -p ghc --run 'cabal init -m -l BSD3 -p $PKGNAME'
+nix-shell -p cabal-install -p ghc --run "cabal init -m -l BSD3 -p $PKGNAME"
 git init && git add . && git commit -m "Initial commit"
 
 vim ${PKGNAME}.cabal  # and remove version constraint on `base`
