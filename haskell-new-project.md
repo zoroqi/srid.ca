@@ -13,7 +13,7 @@ echo "..." > LICENSE
 git init && git add . && git commit -m "Initial commit"
 
 vim *.cabal  # and remove version constraint on `base`
-niv init
+nix-shell -p niv --run 'niv init'
 cat << EOF > default.nix
 let 
   srcs = import nix/sources.nix {};
@@ -30,5 +30,7 @@ in
 EOF
 
 nix-build
-
+nix-shell --run 'ghcid -T :main'
 ```
+
+Copy [.vscode template](https://github.com/srid/reflex-stone/tree/master/.vscode) to `./.vscode` and open this project in VSCode.
