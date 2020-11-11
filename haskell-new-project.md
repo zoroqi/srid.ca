@@ -34,4 +34,4 @@ nix-build
 nix-shell --run 'ghcid -T :main'
 ```
 
-Copy [.vscode template](https://github.com/srid/reflex-stone/tree/master/.vscode) to `./.vscode` and open this project in VSCode.
+Copy [.vscode template](https://github.com/srid/reflex-stone/tree/master/.vscode) to `./.vscode` (note: settings.json should point to default.nix instead of shell.nix) and open this project in VSCode.
