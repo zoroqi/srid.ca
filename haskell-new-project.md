@@ -3,7 +3,7 @@ date: 2020-11-16
 tags: [nix, timeline/haskell]
 ---
 
-# Creating a new Haskell project using Nix
+# Creating a new Haskell project w/ IDE support using Nix
 
 With [[58bc09d0]] support too.
 
