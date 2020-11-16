@@ -24,8 +24,10 @@ vim *.cabal  # and remove version constraint on `base`
 
 # Pin nixpkgs, etc
 # You might want to pass --rev, using the value from status.nixos.org
-nix-thunk create https://github.com/nixos/nixpkgs.git dep/nixpkgs
-nix-thunk create https://github.com/hercules-ci/gitignore.nix.git dep/gitignoresrc
+nix-thunk create \
+  https://github.com/nixos/nixpkgs.git dep/nixpkgs
+nix-thunk create \
+  https://github.com/hercules-ci/gitignore.nix.git dep/gitignoresrc
 
 # Write template default.nix
 cat << EOF > default.nix
