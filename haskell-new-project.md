@@ -27,18 +27,17 @@ nix-thunk create https://github.com/nixos/nixpkgs.git dep/nixpkgs
 
 # Write template default.nix
 cat << EOF > default.nix
-let 
-  pkgs = import ./dep/nixpkgs { };
-in 
-  pkgs.haskellPackages.developPackage {
-    root = ./.;
-    modifier = drv:
-      pkgs.haskell.lib.addBuildTools drv (with pkgs.haskellPackages;
-        [ cabal-install
-          ghcid
-          haskell-language-server
-        ]);
-  }
+{ pkgs ? import ./dep/nixpkgs {} }:
+
+pkgs.haskellPackages.developPackage {
+  root = ./.;
+  modifier = drv:
+    pkgs.haskell.lib.addBuildTools drv (with pkgs.haskellPackages;
+      [ cabal-install
+        ghcid
+        haskell-language-server
+      ]);
+}
 EOF
 
 # Test your changes
