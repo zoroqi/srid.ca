@@ -46,6 +46,8 @@ nix-build
 nix-shell --run 'ghcid -T :main'
 
 # Create .gitignore and commit
+echo -e "dist-newstyle\nresult" > .gitignore
+git add . && git commit -m "Nixify"
 ```
 
 Copy [.vscode template](https://github.com/srid/reflex-stone/tree/master/.vscode) to `./.vscode` (note: settings.json should point to default.nix instead of shell.nix) and open this project in VSCode.
