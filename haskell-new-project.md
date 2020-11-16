@@ -48,6 +48,7 @@ EOF
 
 # Test your changes
 nix-build
+nix-shell --run 'cabal-fmt -i *.cabal'  # Formats your cabal file
 nix-shell --run 'ghcid -T :main'
 
 # Create .gitignore and commit
