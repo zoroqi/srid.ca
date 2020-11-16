@@ -1,6 +1,6 @@
 ---
-date: 2020-11-04T14:31
-tags: [nix]
+date: 2020-11-16
+tags: [nix, timeline/haskell]
 ---
 
 # Creating a new Haskell project using Nix
