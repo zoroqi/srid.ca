@@ -11,33 +11,38 @@ First, install [nix-thunk](https://github.com/obsidiansystems/nix-thunk) (altern
 
 ```bash
 # Initialize project layout using cabal
-PKGNAME=foo
-mkdir $PKGNAME && cd $PKGNAME
-nix-shell -p cabal-install -p ghc --run "cabal init -m -l BSD3 -p $PKGNAME"
+mkdir mypkg && cd mypkg
+# Note: Pass --lib, --exe or --libandexe as appropriate
+nix-shell -p cabal-install -p ghc --run "cabal init -m -l BSD3 -p mypkg"
 
 # Add to git
 git init && git add . && git commit -m "Initial commit"
 
 # Remove, or update, version constraint on base to match compiler
-vim ${PKGNAME}.cabal  # and remove version constraint on `base`
+vim *.cabal  # and remove version constraint on `base`
 
-# Pin nixpkgs
+# Pin nixpkgs, etc
 # You might want to pass --rev, using the value from status.nixos.org
 nix-thunk create https://github.com/nixos/nixpkgs.git dep/nixpkgs
+nix-thunk create https://github.com/hercules-ci/gitignore.nix.git dep/gitignoresrc
 
 # Write template default.nix
 cat << EOF > default.nix
 { pkgs ? import ./dep/nixpkgs {} }:
-
-pkgs.haskellPackages.developPackage {
-  root = ./.;
-  modifier = drv:
-    pkgs.haskell.lib.addBuildTools drv (with pkgs.haskellPackages;
-      [ cabal-install
-        ghcid
-        haskell-language-server
-      ]);
-}
+let 
+  inherit (import ./dep/gitignore { inherit (pkgs) lib; }) gitignoreSource;
+in 
+  pkgs.haskellPackages.developPackage {
+    name = "mypkg";
+    root = gitignoreSource ./.;
+    modifier = drv:
+      pkgs.haskell.lib.addBuildTools drv (with pkgs.haskellPackages;
+        [ cabal-install
+          cabal-fmt
+          ghcid
+          haskell-language-server
+        ]);
+  }
 EOF
 
 # Test your changes
@@ -53,7 +58,3 @@ To enable IDE support,
 
 - Copy [.vscode template](https://github.com/srid/reflex-stone/tree/master/.vscode) to `./.vscode` (note: settings.json should point to default.nix instead of shell.nix) and open this project in VSCode.
 - Add the [appropriate hie.yaml](https://github.com/haskell/haskell-language-server#configuring-your-project-build)
-
-## TODO
-
-- [ ] Use `gitignoreSrc`
