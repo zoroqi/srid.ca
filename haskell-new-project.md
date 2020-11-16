@@ -56,5 +56,6 @@ git add . && git commit -m "Nixify"
 
 To enable IDE support,
 
-- Copy [.vscode template](https://github.com/srid/reflex-stone/tree/master/.vscode) to `./.vscode` (note: settings.json should point to default.nix instead of shell.nix) and open this project in VSCode.
+- Copy [.vscode template](https://github.com/srid/reflex-stone/tree/master/.vscode) to `./.vscode` (note: settings.json should point to default.nix instead of shell.nix)
 - Add the [appropriate hie.yaml](https://github.com/haskell/haskell-language-server#configuring-your-project-build)
+- Open the folder in VSCode and follow the instructions
