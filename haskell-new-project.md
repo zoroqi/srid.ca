@@ -62,3 +62,11 @@ To enable IDE support,
 - Add the [appropriate hie.yaml](https://github.com/haskell/haskell-language-server#configuring-your-project-build)
 - Test your configuration by running `nix-shell --run haskell-language-server` (it should succeed with module-level reports)
 - Open the folder in VSCode and follow the instructions
+
+Other things you might want to do:
+
+- Use `relude` as Prelude
+- Enable some `default-extensions`
+- Enable [sensible warnings][warn] in `ghc-options`
+
+[warn]: https://kowainik.github.io/posts/2019-02-06-style-guide#ghc-options
