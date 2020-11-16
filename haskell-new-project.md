@@ -13,7 +13,7 @@ First, install [nix-thunk](https://github.com/obsidiansystems/nix-thunk) (altern
 # Initialize project layout using cabal
 mkdir mypkg && cd mypkg
 # Note: Pass --lib, --exe or --libandexe as appropriate
-nix-shell -p cabal-install -p ghc --run "cabal init -m -l BSD3 -p mypkg"
+nix-shell -p cabal-install -p ghc --run "cabal init --cabal-version=3.0 -m -l BSD-3-Clause --lib -p mypkg"
 
 # Add to git
 git init && git add . && git commit -m "Initial commit"
