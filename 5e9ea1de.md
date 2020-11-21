@@ -10,5 +10,5 @@ A project to return to simple and frugal software [[2012302]] options. See timel
 This is an ongoing project, started on Nov 21st.
 :::
 
-[[[z:zettels?tag=mtsa]]]
+[[[z:zettels?tag=mtsa&timeline]]]
 
