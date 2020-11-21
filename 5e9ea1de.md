@@ -2,7 +2,9 @@
 date: 2020-11-21T14:16
 ---
 
-# 5e9ea1de
+# Make Tech Simple Again
 
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
+A project to return to simple and frugal software [[2012302]] options. See timeline of actions below:
+
+[[[z:zettels?tag=mtsa]]]
 
