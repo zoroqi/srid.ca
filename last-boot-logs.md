@@ -15,7 +15,7 @@ journalctl -b
 
 The `-b` arguments specifies the boot ID, which can be obtained from the first column of the output of `journalctl --list-boots`. The current boot's ID is 0, and the previous boot's ID is -1, and so on. 
 
-If you just did a cold reboot following a system crash, you get the logs prior to crash by retrieving the logs for boot ID -1:
+If you just did a **cold reboot following a system crash**, you get the logs prior to crash by retrieving the logs for boot ID -1:
 
 ```bash
 journalctl -b -1

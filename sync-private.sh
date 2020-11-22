@@ -10,7 +10,8 @@ ZK=$HOME/Documents/zk
 assert_imported () {
     # The "imported" YAML field is just to remind myself not to edit this
     # manually (outside of private Zettelkasten, from which it is copied over)
-    (grep "imported: true" "${ZK}/$1.md" > /dev/null) || (echo "error: not flagged as imported: $1"; exit 2)
+    (grep "imported: true" "${ZK}/$1.md" > /dev/null) \
+        || (echo "error: not flagged as imported: $1"; exit 2)
 }
 
 cpnote () {
