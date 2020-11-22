@@ -11,6 +11,9 @@
   , "b6df4059:neuron"
   , "2012403:obelisk"
   , "2012401:rhyolite"
+  , "2012302:tech"
+  , "c7170724:nixos"
+  , "2017102:nix"
   ]
 , editUrl = Some "https://github.com/srid/srid.ca/edit/master/"
 , mathJaxSupport = False

@@ -5,7 +5,7 @@ tags: [nix, timeline/haskell]
 
 # Creating a new Haskell project w/ IDE support using Nix
 
-I create new Haskell libraries and applications using [[2017102]], along with [[58bc09d0]] support in VSCode as follows.
+I create new Haskell libraries and applications using [[nix]], along with [[58bc09d0]] support in VSCode as follows.
 
 First, install [nix-thunk](https://github.com/obsidiansystems/nix-thunk) (alternatively, you may use niv or flakes).
 

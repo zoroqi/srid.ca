@@ -5,7 +5,7 @@ date: "2020-05-26"
 
 The only Linux distribution you need: <https://nixos.org/>
 
-* [[[2017102]]]
+* [[[nix]]]
 
 [[[z:zettels?tag=nixos]]]
 

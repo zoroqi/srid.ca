@@ -1,5 +1,5 @@
 # Linux
 
-* [[[c7170724]]]
+* [[[nixos]]]
 
 [[[z:zettels?tag=linux&timeline]]]
