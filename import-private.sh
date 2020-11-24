@@ -16,7 +16,7 @@ assert_imported () {
 
 cpnote () {
     assert_imported "$1"
-    cp -v "$1" ./
+    cp -v "$1" ./imported/
 }
 
 rg --null -lU "^---\nslug: " $ZK | while IFS= read -r -d '' notefile; 

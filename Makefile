@@ -1,0 +1,2 @@
+all:
+	./import-private.sh
