@@ -1,8 +1,7 @@
 ---
-title: Last logs from previous boot
+slug: last-boot-logs
 date: 2020-11-22
 tags: [linux]
-imported: true
 ---
 
 On a Linux system managed by [systemd], its [Journal] feature manages the logs for everything from kernel to user level services.  These logs can be accessed using the [`journalctl`] command.
