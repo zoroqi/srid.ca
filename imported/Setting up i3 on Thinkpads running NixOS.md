@@ -85,3 +85,6 @@ services.xserver.libinput = {
   accelSpeed = "0.5";
 };
 ```
+## Comments about this note
+
+- [r/NixOS](https://www.reddit.com/r/NixOS/comments/k09cf2/setting_up_i3_on_thinkpads_running_nixos/)
