@@ -12,7 +12,7 @@ Writing software programs is my passion and profession.
 
 ## Using
 
-* [[[x1c7]]] (my laptop)
+* [[[X1C7]]] (my laptop)
 * [[[linux]]] (What I run on my computers)
 * [[[6e549a6d]]] (I [use vim](https://github.com/srid/nix-config/tree/master/nix/nvim) as well)
 * GNOME
