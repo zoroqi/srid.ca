@@ -1,4 +1,5 @@
 ---
+slug: 5e9ea1de
 date: 2020-11-21T14:16
 ---
 
@@ -11,4 +12,3 @@ This is an ongoing project, started on Nov 21st.
 :::
 
 [[[z:zettels?tag=mtsa&timeline]]]
-

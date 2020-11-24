@@ -5,19 +5,23 @@ date: 2020-11-23
 tags: [nixos, mtsa]
 ---
 
-Why [[i3]] over [[GNOME]]? Because I have come to believe that i3's workflow **encourages focus & simplicity** (more on this later). First, **consult the [NixOS wiki][wiki]** for basic instructions to setup i3 on a NixOS machine. This note will focus on the various little things that must be configured for an acceptable user experience on Thinkpads, mainly [[P71]] and [[X1C7]].
+:::{.ui .message}
+The first step of the [[Make Tech Simple Again]] project is to go back to [[i3]]. Why i3, and not [[GNOME]]? Because I have come to believe that i3's workflow **encourages focus & simplicity** (more on this later). This note is just a historical record of what I did to get i3 working on both of my machines.
+:::
+
+First, **consult the [NixOS wiki][wiki]** for basic instructions on seting up i3 on a NixOS machine. This note will focus on the various little things that must be configured for an acceptable user experience on Thinkpads, mainly [[P71]] and [[X1C7]].
 
 [wiki]: https://nixos.wiki/wiki/I3
 
 ## Declarative i3 config
 
-i3 will autogenerate the config file when you first login. You will want to put this in your Nix configuration. Move the generated config file in `~/.config/i3/config` to your Nix repository, and use `configFile = ./i3.conf` under `windowManager.i3`[^w1] in order to declaratively specify it.
+i3 will autogenerate the config file when you first login. You will want to put this in your Nix configuration. Move the generated config file (in `~/.config/i3/config`) to your Nix repository, and use `configFile = ./i3.conf` under `windowManager.i3`[^w1] in order to declaratively specify it.
 
-[^w1]: assuming you used the NixOS wiki instructions linked above 
+[^w1]: ... assuming you used the NixOS wiki instructions linked above 
 
-## Changing HiDPI
+## HiDPI displays
 
-If any of your screens have 4k+ resolution, you'll want to change the pixel density (DPI) so that text doesn't appear too tiny. One way to do this is to specify the DPI in the `.Xresources` file, which can be declaratively done using home-manager:
+If any of your screens have 4k+ resolution, you'll want to change the pixel density (DPI) so that text and UI elements don't appear too tiny. One way to do this is to specify the DPI in the [`.Xresources`](https://wiki.archlinux.org/index.php/x_resources) file, which can be declaratively done using [home-manager](https://github.com/nix-community/home-manager):
 
 ```nix
 home.file = {
@@ -27,7 +31,7 @@ home.file = {
 };
 ```
 
-You will also have to instruct X to merge these resources using `xrdb`. If you are configuring i3 using NixOS (not home-manager) configuration, you can do this as follows:
+You will also have to instruct X to merge these resources using `xrdb` on startup. When configuring i3 using configuration.nix (not home-manager) configuration, you can do this as follows:
 
 ```nix
 windowManager.i3.extraSessionCommands = ''
@@ -55,7 +59,7 @@ Disable autosuspend if you experience the [[System freeze on wake-up with Thunde
 
 ## Monitor plug and play
 
-Unlike GNOME, in i3 you will explicitly have configure external screens when docking or undocking the laptop. While `arandr` can be used to do this manually, it is better to use a service like `autorandr` to automatically switch configuration when docking state changes. 
+Unlike GNOME, in i3 you will explicitly have to configure external screens when docking or undocking the laptop. While `arandr` can be used to do this manually, it is better to use a service like `autorandr` to automatically switch configuration when docking state changes. 
 
 ```nix
 # Monitor plug n play
