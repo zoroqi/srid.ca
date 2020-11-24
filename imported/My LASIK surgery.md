@@ -1,27 +1,23 @@
 ---
-title: "My LASIK surgery"
-description: My experience of LASIK eye surgery
+slug: "1911401"
 date: 2019-03-21
 tags:
   - timeline
   - health
 ---
 
-On March 14th 2019 I had **Custom Wavefront LASIK** surgery done on both the
-eyes to correct _simple myopia_ with _astigmatism_ that I have had since as a
-teenager.
+On March 14th 2019 I had **Custom Wavefront LASIK** surgery done on both [[My eyes]] to correct _simple myopia_ with _astigmatism_ that I have had since as a teenager.
 
-These are my **ongoing** notes on the procedure and the healing experience
-\(which is expected to take 6 months\).
+These are my **ongoing** notes on the procedure and the healing experience (which is expected to take 6 months).
 
 ## Initial evaluation
 
 I chose to get my surgery done at [_LASIK MD_](https://www.lasikmd.com) center
-in Quebec. I was asked to sleep without my contacts \(I could wear them during
-the day\) for a week before the day of evaluation wherein they would ascertain
+in Quebec. I was asked to sleep without my contacts (I could wear them during
+the day) for a week before the day of evaluation wherein they would ascertain
 whether I'm a candidate for LASIK and if so for what kind of surgery.
 
-![](/static/lasik-quebec.jpg)
+![](./static/lasik-quebec.jpg)
 
 The entire evaluation took about 3 hours. My vision has already been stable
 during the last few years. I was told that custom wavefront LASIK would be the

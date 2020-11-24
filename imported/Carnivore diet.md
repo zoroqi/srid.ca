@@ -1,4 +1,5 @@
 ---
+slug: carnivore-diet
 date: 2019-05-09
 tags:
   - timeline
@@ -11,7 +12,7 @@ I eat only animal-based foods.[^coffee]
 
 [^coffee]: Coffee being a delightful exception.
 
-![](/static/beef.jpg)
+![](./static/beef.jpg)
 
 ## Why?
 
