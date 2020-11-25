@@ -33,7 +33,7 @@ nix-thunk create \
 cat << EOF > default.nix
 { pkgs ? import ./dep/nixpkgs {} }:
 let 
-  inherit (import ./dep/gitignore { inherit (pkgs) lib; }) gitignoreSource;
+  inherit (import ./dep/gitignoresrc { inherit (pkgs) lib; }) gitignoreSource;
 in 
   pkgs.haskellPackages.developPackage {
     name = "mypkg";
