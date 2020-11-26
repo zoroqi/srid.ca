@@ -39,6 +39,18 @@ windowManager.i3.extraSessionCommands = ''
 ''
 ```
 
+Cursor size will still be tiny, which can be fixed using home-manager configuration:
+
+```nix
+  # High DPI cursor fix
+  # https://github.com/NixOS/nixpkgs/issues/34603
+  xsession.pointerCursor = {
+    name = "Vanilla-DMZ";
+    package = pkgs.vanilla-dmz;
+    size = 128;
+  };
+```
+
 ## Automatic screen lock
 
 Various solutions exist, but one way to configure automatic screen locking is to use the `xautolock` program. nixpkgs provides a systemd service for it:
