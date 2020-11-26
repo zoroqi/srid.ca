@@ -1,6 +1,5 @@
 ---
 slug: i3-setup
-title: Setting up i3 on Thinkpads running NixOS
 date: 2020-11-23
 tags: [nixos, mtsa]
 ---

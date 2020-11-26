@@ -1,9 +1,8 @@
 ---
+slug: haskell-new-project
 date: 2020-11-16
 tags: [nix, timeline/haskell]
 ---
-
-# Creating a new Haskell project w/ IDE support using Nix
 
 I create new Haskell libraries and applications using [[nix]], along with [[58bc09d0]] support in VSCode as follows.
 
