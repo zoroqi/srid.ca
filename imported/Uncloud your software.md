@@ -13,9 +13,13 @@ Replacement software should be either self-hostable or be desktop software that 
 
 ### DNS
 
+**Importance**: High
+
 - [ ] Using Google Domains at the moment. I have quite a few domains, and this might be a tricky to do right ... 
 
 ### Email
+
+**Importance**: Low 
 
 Email has to be hosted by somebody else for reliability, but to minimize the damage use **your own domain**, as well use a **local email client** to store email archives locally. 
 
@@ -23,12 +27,14 @@ I went with continuing to use Gmail, by configuring its "send as" address to use
 
 ### Passwords
 
+**Importance**: High
+
 - [ ] Find a solution with sync.
-  - Explore [KeePass & Syncthing](https://dev.to/rusty_sys_dev/switching-to-keepass-and-syncthing-for-password-management-1klh)
+  - Explore `pass` + `gpg`
   
 ### Docs (spreadsheets)
 
-- [ ] Find a spreadsheet software, or design a custom app, for personal accounting.
+- [ ] Find a spreadsheet software, or design a custom app, for accounts tracking.
   - Research [OnlyOffice](https://github.com/ONLYOFFICE/DesktopEditors)
 
 ## See also
