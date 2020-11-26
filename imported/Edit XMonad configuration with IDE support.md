@@ -12,6 +12,7 @@ The second step of the [[Make Tech Simple Again]] project was to switch from [[i
 
 Because it is all Haskell, we can use [`haskell-language-server`](https://github.com/haskell/haskell-language-server) to provide full IDE support -- autocomplete, hover popups, documentation links, etc. -- for editing window manager configuration.
 
+{.ui .basic .segment .centered .grid}
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Editing <a href="https://twitter.com/xmonad?ref_src=twsrc%5Etfw">@xmonad</a> &quot;configuration&quot; with full IDE support in <a href="https://twitter.com/code?ref_src=twsrc%5Etfw">@code</a> thanks to <a href="https://twitter.com/nixos_org?ref_src=twsrc%5Etfw">@nixos_org</a>, nix and haskell-language-server.<br><br>Can your window manager do this?<a href="https://t.co/xOtcnmzq3b">https://t.co/xOtcnmzq3b</a> <a href="https://t.co/bc2hrMfQYn">pic.twitter.com/bc2hrMfQYn</a></p>&mdash; Devil May Care (@sridca) <a href="https://twitter.com/sridca/status/1331701938556166150?ref_src=twsrc%5Etfw">November 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Here's how you do it:
