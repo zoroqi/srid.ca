@@ -20,7 +20,7 @@ jobs:
         #unzip neuron-bundle-linux.zip
         #chmod +x neuron
         #./neuron --version  # This extracts the bundle; should take a while
-        nix-env -if https://github.com/srid/neuron/archive/slug.tar.gz
+        nix-env -if https://github.com/srid/neuron/archive/master.tar.gz
     - name: Build neuron site 🔧
       run: |
         neuron rib
