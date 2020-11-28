@@ -71,3 +71,8 @@ Other things you might want to do:
 - Enable [sensible warnings][warn] in `ghc-options`
 
 [warn]: https://kowainik.github.io/posts/2019-02-06-style-guide#ghc-options
+
+## TODO
+
+- [ ] Hoogle ([cf](https://www.reddit.com/r/haskell/comments/k2htfz/template_github_project_using_nix_with_haddock/))
+- [ ] GitHub CI action workflow
