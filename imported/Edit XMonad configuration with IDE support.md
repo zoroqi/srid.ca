@@ -41,3 +41,7 @@ Your Cabal project lives at `./xmonad-config` ... and, if you followed the instr
 ## Example
 
 - [My config: nixos/xmonad-srid](https://github.com/srid/nix-config/tree/64e3d5de3383172e95b504dd8e410e62302f3632/nixos/xmonad-srid)
+
+## Discussion
+
+- [r/haskell](https://www.reddit.com/r/haskell/comments/k1kcif/edit_xmonad_configuration_with_ide_support/)
