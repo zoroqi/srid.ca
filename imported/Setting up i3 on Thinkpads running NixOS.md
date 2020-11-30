@@ -99,3 +99,10 @@ services.xserver.libinput = {
 ## Comments about this note
 
 - [r/NixOS](https://www.reddit.com/r/NixOS/comments/k09cf2/setting_up_i3_on_thinkpads_running_nixos/)
+
+## Links
+
+- Link to my config: 
+  - [nixos/i3.nix](https://github.com/srid/nix-config/blob/593418b1d7dc6f5d022b05452c5e1483a51d3e9b/nixos/i3.nix)
+  - [nixos/i3.conf](https://github.com/srid/nix-config/blob/593418b1d7dc6f5d022b05452c5e1483a51d3e9b/nixos/i3.conf)
+  - home-manager [i3-config.nix](https://github.com/srid/nix-config/blob/593418b1d7dc6f5d022b05452c5e1483a51d3e9b/nix/i3-config.nix)
