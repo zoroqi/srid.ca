@@ -9,7 +9,7 @@ date: 2020-11-30
 
 - Ignore Home feed; use *Twitter Lists* instead (possibly with [TweetDeck](https://tweetdeck.twitter.com/)).
   - Create separate lists for different domains.
-- Avoid responding to trolls 
+- Be cognizant of trolls 
   - Sometimes otherwise intelligent people may engage in trolling behaviour (eg. those who are "[woke](https://newdiscourses.com/tftw-woke-wokeness/)").
   - Learn the distinction between criticism and toxic behaviour[^vibe].
 
@@ -19,6 +19,5 @@ date: 2020-11-30
 
 - Remove distracting rubbish[^clickbait]
   - On desktop, use [Minimal Twitter](https://github.com/thomaswang/minimal-twitter)
-  - On mobile, ... ?
 
 [^clickbait]: Especially the clickbait content that Twitter forces into your valuable attention.
