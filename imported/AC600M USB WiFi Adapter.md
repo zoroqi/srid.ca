@@ -2,7 +2,9 @@
 slug: rtl8821cu
 ---
 
-Having gotten frustrated with the [[X1C7 WiFi issue]], I decided to use an external USB WiFi adapter. [Here is the specific adapter](https://www.amazon.ca/gp/product/B078MHKFJ9/) I purchased from Amazon. It does not work with Linux out of the box; fortunately the shipment came with a mini CD (with presumably the Windows driver) that had the code `RTL8811/RTL8812` on it. 
+Having gotten frustrated with the [[X1C7 WiFi issue]], I decided to use an external USB WiFi adapter. [Here is the specific adapter](https://www.amazon.ca/gp/product/B078MHKFJ9/)[^title] I purchased from Amazon. It does not work with Linux out of the box; however, the shipment came with a mini CD (with presumably the Windows driver) that had the code `RTL8811/RTL8812` which hinted at the possible Linux driver to use.
+
+[^title]: Product title: *WiFi Adapter Flenco 600Mbps WiFi Dongle Mini Dual Band 2.4G/5G USB Wireless Network Adapter Support for Win 7/8/8.1/10/XP/Vista*
 
 ## Initial investigation
 
@@ -26,7 +28,7 @@ $ lsusb | grep 802
 Bus 001 Device 011: ID 0bda:c811 Realtek Semiconductor Corp. 802.11ac NIC
 ```
 
-Which led me to [this post](https://askubuntu.com/questions/1162974/wireless-usb-adapter-0bdac811-realtek-semiconductor-corp) that indicated that I needed to use the [`8821cu`](https://github.com/brektrou/rtl8821CU) Linux driver for this particular hardware.
+Which led me to [this post](https://askubuntu.com/questions/1162974/wireless-usb-adapter-0bdac811-realtek-semiconductor-corp) that indicated that I needed to use the [`8821cu`](https://github.com/brektrou/rtl8821CU) (matching what's on the mini CD) Linux driver for this particular hardware.
 
 ## Configuring NixOS
 
@@ -45,4 +47,6 @@ Could not activate connection
 Insufficient privileges
 ```
 
-Using `sudo nmtui` however worked.
+Using `sudo nmtui` however works.
+
+- [ ] Obviate the use of `sudo`, so that the 2nd WiFi autoconnects on restart.
