@@ -14,3 +14,7 @@ We are all familiar with the word "projection", however the keyword here is "int
 > Introjection is a psychoanalytic concept that refers to an unconscious process wherein a person takes components of a person's identity, such as feelings, experiences, and cognitive functioning, and transfers them inside themselves, **making such experiences part of their new psychic structure**. These components are obliterated from consciousness (splitting), perceived in someone else (projection), and then experienced and performed (i.e., introjected) by that other person. Cognate concepts are identification, incorporation, and internalization.
 
 Introjection is a major part of "identify formation", which continues well into adulthood, and arguably is a key element of [[Propaganda]].
+
+## Examples
+
+- [Democrats' gaslighting patterns](https://twitter.com/ScottAdamsSays/status/1329794369453400064) in [[US Election 2020]]
