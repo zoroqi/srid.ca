@@ -7,7 +7,7 @@ tags: [propaganda]
 
 > Yesterday’s conspiracy theories often become today’s incontrovertible facts. 
 
-> It’s a function similar to that served by the term “heresy” in medieval Europe. In both cases these are **terms of propaganda, used to stigmatise and marginalise people who have beliefs that conflict with officially sanctioned or orthodox beliefs of the time and place in question*. [...] the treatment of those labelled as “conspiracy theorists” in our culture is analogous to the treatment of those labelled as “heretics” in medieval Europe
+> It’s a function similar to that served by the term “heresy” in medieval Europe. In both cases these are **terms of propaganda, used to stigmatise and marginalise people who have beliefs that conflict with officially sanctioned or orthodox beliefs of the time and place in question**. [...] the treatment of those labelled as “conspiracy theorists” in our culture is analogous to the treatment of those labelled as “heretics” in medieval Europe
 
 --- [In defence of conspiracy theories (and why the term is a misnomer)](https://theconversation.com/in-defence-of-conspiracy-theories-and-why-the-term-is-a-misnomer-101678)
 
