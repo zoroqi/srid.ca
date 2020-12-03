@@ -6,7 +6,7 @@ slug: 2020-us-election
 This work-in-progress note is about an ongoing event.
 :::
 
-Presidential election between the incubent [[Donald Trump]] and Joe Biden.
+Presidential election between the incumbent [[Donald Trump]] and Joe Biden.
 
 ## Electoral fraud summary
 

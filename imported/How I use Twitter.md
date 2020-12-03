@@ -12,6 +12,7 @@ date: 2020-11-30
 - Be cognizant of trolls 
   - Sometimes otherwise intelligent people may engage in trolling behaviour (eg. those who are "[woke](https://newdiscourses.com/tftw-woke-wokeness/)").
   - Learn the distinction between criticism and toxic behaviour[^vibe].
+  - Liberally block accounts engaging in uncivil behaviour
 
 [^vibe]: Appearing negative (eg: when criticizing something) is not the same thing as emanating a negative **vibe**. See [Experimental evidence of massive-scale emotional contagion through social networks](https://www.pnas.org/content/111/24/8788). Cf. [[2015101]]. 
 
