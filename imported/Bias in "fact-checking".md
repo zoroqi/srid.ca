@@ -1,6 +1,6 @@
 ---
 slug: fact-checkers
-tags: [propaganda]
+tags: [fakenews]
 ---
 
 The so called 'fact-checkers" don't necessarily deal with facts when it comes to politics and other controversial topics. Below is a list of known rebuttals of some "fact-checkers".
@@ -16,4 +16,4 @@ Snopes
 : - [Snopes promotes junk science study in a continuation of its bizarre grudge against the Babylon Bee](https://www.washingtonexaminer.com/opinion/snopes-promotes-junk-science-study-in-a-continuation-of-its-bizarre-grudge-against-the-babylon-bee)
 : - "*what does emerge from my exchanges with Snopes’ founder is the image of the ultimate black box presenting a gleaming veneer of ultimate arbitration of truth, yet with absolutely no insight into its inner workings.*" --- [The Daily Mail Snopes Story And Fact Checking The Fact Checkers](https://www.forbes.com/sites/kalevleetaru/2016/12/22/the-daily-mail-snopes-story-and-fact-checking-the-fact-checkers/?sh=41ad81ad227f)
 
-(Part of [[Propaganda]])
+(Part of [[Mainstream Media Bias]])
