@@ -13,7 +13,7 @@ References for the above passage:
 * [Wikipedia co-founder slams Mark Zuckerberg, Twitter and the ‘appalling’ internet](https://www.cnbc.com/2019/07/05/wikipedia-co-founder-larry-sanger-slams-facebook-twitter-social-media.html)
 * [How Wikipedia Became a Battleground for Racial Justice](https://slate.com/technology/2020/06/wikipedia-george-floyd-neutrality.html)
 
-Wikipedia's revision history however is useful in one way: to [[[Unearthing heterodox views from Wikipedia]]].
+Wikipedia's *revision history* however is useful in one way -- in [[[Unearthing heterodox views from Wikipedia]]]. Indeed, the above passage was discovered in that manner.
 
 ## See also 
 
