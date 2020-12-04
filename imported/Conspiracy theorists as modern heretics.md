@@ -3,7 +3,7 @@ slug: conspiracy-theory
 tags: [propaganda]
 ---
 
-Outside of the most obvious cases, "conspiracy theory" labelling is a form of collective [[Gaslighting]].
+Outside of the most obvious cases, "conspiracy theory" labelling is collective [[Gaslighting]].
 
 > Yesterday’s conspiracy theories often become today’s incontrovertible facts. 
 
