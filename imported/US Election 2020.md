@@ -8,6 +8,7 @@ This work-in-progress note is about an ongoing event.
 
 Presidential election between the incumbent [[Donald Trump]] and Joe Biden.
 
-## Electoral fraud summary
+## Electoral fraud allegations timeline
 
-* [Reasons why the 2020 presidential election is deeply puzzling](https://archive.is/8qpJS)
+* Nov 27: [Reasons why the 2020 presidential election is deeply puzzling](https://archive.is/8qpJS)
+* Dec 3: [GA hearing](https://twitter.com/KanekoaTheGreat/status/1334572762933805056)
