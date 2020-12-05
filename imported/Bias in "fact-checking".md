@@ -3,7 +3,13 @@ slug: fact-checkers
 tags: [fakenews]
 ---
 
-The so called 'fact-checkers" don't necessarily deal with facts when it comes to politics and other controversial topics. Below is a list of known rebuttals of some "fact-checkers".
+The so called 'fact-checkers" don't necessarily deal with facts when it comes to politics and other controversial topics.
+
+> [Media Matters lobby] had to make us think that we needed a third party to step in and tell us what to think and sort through the information … The fake news effort, the fact-checking, which is usually fake fact-checking, meaning it's not a genuine effort, is a [[Propaganda]] effort … [Sharyl Attkisson on Media Bias](https://articles.mercola.com/sites/articles/archive/2020/11/22/sharyl-attkisson-media-bias.aspx)
+
+## Fact-checking the various "fact-checkers"
+
+Below is a list of known rebuttals of some "fact-checkers".
 
 Politifact
 : - "*I wanted to show that these fact-checkers just lie, and they usually go unchecked because most people don’t have the money, don’t have the time, and don’t have the platform to go after them — and I have all three*" --- [Candace Owens Challenges Fact-Checker, And Wins](https://www.dailywire.com/news/candace-owens-challenges-fact-checker-and-wins)
