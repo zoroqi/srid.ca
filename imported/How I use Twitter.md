@@ -1,6 +1,5 @@
 ---
 slug: twitter
-date: 2020-11-30
 ---
 
 Twitter is great for **social engagement**, as long as one has the discipline not to get sucked into its dark corners.
@@ -27,7 +26,16 @@ Be cognizant of trolls.
 
 ## Memory hygiene
 
-- [ ] Setup auto-delete of old tweets
+There is no reason to leave a permanent trail of one's thoughts, as a significant amount of them tend to be transient and change over time. 
+
+- Set up auto-delete of old tweets (see below)
+- Tweet liberally, but incorporate them into my [[Zettelkasten]] well before auto-delete kicks in.
+
+The idea being that Twitter will act only as a transient medium where as-yet-unexplored thoughts may linger in public, before getting integrated into one's "second brain" (that *is* permanent; and evolving over time).
+
+### Auto-delete
+
+- [ ] Improve this script
   ```bash
   # TODO: Delete all but last N days of tweets
   # TODO: Run as systemd service

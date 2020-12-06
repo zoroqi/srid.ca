@@ -4,7 +4,7 @@
 
 Welcome to my homepage. I'm interested in [[2009703]] as well as [[7c5337fc]]. 
 
-My current projects are [[neuron]], [[ka]] and [**Cerveau**](https://www.cerveau.app/). I'm generally available for part-time consulting services related to [[2009703]], [[nix]] and/ or [[2012405]]; for contact info and other details, see [my résumé](./static/resume.pdf).
+My current projects are [[Neuron]], [[ka Project]] and [**Cerveau**](https://www.cerveau.app/). I'm generally available for part-time consulting services related to [[2009703]], [[nix]] and/ or [[2012405]]; for contact info and other details, see [my résumé](./static/resume.pdf).
 
 Selected timeline of notes presented below (for a complete index, click the tree icon above):
 

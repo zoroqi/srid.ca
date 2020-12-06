@@ -5,8 +5,8 @@ Writing software programs is my passion and profession.
 ## Creating
 
 * [[[2009703]]] The programming language I use primarily. 
-  * [[neuron]] - What this site itself is published on
-  * [[ka]] - Neuron NG
+  * [[Neuron]] - What this site itself is published on
+  * [[ka Project]] - Neuron NG
 * Philosophy
   * [[[47e0e49a]]]
 
