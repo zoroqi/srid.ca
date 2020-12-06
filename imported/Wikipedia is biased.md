@@ -5,7 +5,7 @@ tags: [propaganda]
 
 Best summarized in a [pre-censored Wikipedia article](https://en.wikipedia.org/w/index.php?title=Ideological_bias_on_Wikipedia&oldid=974360921#Wikipedia_co-founder):[^cens]
 
-> Wikipedia co-founder Larry Sanger has been critical of the online encyclopedia's accuracy and neutrality since the early 2000s. In May 2020, he published an article in his personal blog describing Wikipedia as "badly biased" and stated that he believed it no longer had an effective neutrality policy, claiming that portions of the [Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump) article are "unrelentingly negative" while the [Barack Obama](https://en.wikipedia.org/wiki/Barack_Obama) article "completely fails to mention many well-known scandals" and various other topics he claims are presented with liberal bias.
+> Wikipedia co-founder Larry Sanger has been critical of the online encyclopedia's accuracy and neutrality since the early 2000s. In May 2020, he published an article in his personal blog describing Wikipedia as "badly biased" and stated that he believed it no longer had an effective neutrality policy, claiming that portions of the [[Donald Trump]] article are "unrelentingly negative" while the [Barack Obama](https://en.wikipedia.org/wiki/Barack_Obama) article "completely fails to mention many well-known scandals" and various other topics he claims are presented with liberal bias.
 
 References for the above passage:
 

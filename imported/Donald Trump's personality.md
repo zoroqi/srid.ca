@@ -8,7 +8,7 @@ In an interview with Sean Kim, [[Scott Adams]] described [[Donald Trump]] person
 - having social skills off the charts
 - persuasive in an artless way (i.e., authentic)
 
-Watch [The Trutth About What Trump is Like in Person](https://www.youtube.com/watch?v=QjaQTsRfBHU&feature=youtu.be).
+Watch [The Truth About What Trump is Like in Person](https://www.youtube.com/watch?v=QjaQTsRfBHU&feature=youtu.be).
 
 ---
 
