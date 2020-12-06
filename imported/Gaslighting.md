@@ -16,4 +16,4 @@ Introjection is a major part of "identify formation", which continues well into 
 
 ## Examples
 
-- [Democrats' gaslighting patterns](https://twitter.com/ScottAdamsSays/status/1329794369453400064) in [[US Election 2020]]
+- [Democrats' gaslighting patterns](https://twitter.com/ScottAdamsSays/status/1329794369453400064) in [[US Election 2020]], according to [[Scott Adams]]

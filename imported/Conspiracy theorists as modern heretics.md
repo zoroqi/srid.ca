@@ -3,7 +3,7 @@ slug: conspiracy-theory
 tags: [propaganda]
 ---
 
-Outside of the most obvious cases, "conspiracy theory" labelling is collective [[Gaslighting]].
+Outside of the most obvious cases, "conspiracy theory" labelling is a form of collective [[Gaslighting]].
 
 > Yesterday’s conspiracy theories often become today’s incontrovertible facts. 
 
@@ -17,6 +17,10 @@ Outside of the most obvious cases, "conspiracy theory" labelling is collective [
 > 
 > This is why the term today is associated with "tin foil hat wearing crazy people". The CIA propagandized Americans to immediately dismiss the claims of anyone who was called a "Conspiracy theorist" and to this day that is exactly how the term is used in the Government and Media.
 
---- <https://www.reddit.com/r/philosophy/comments/d5zny6/in_defence_of_conspiracy_theories_and_why_the/>
+--- [r/philosophy](https://www.reddit.com/r/philosophy/comments/d5zny6/in_defence_of_conspiracy_theories_and_why_the/)
+
+## See also
+
+- [[r-TheMotte]]: [QAnon History and its Pizzagate Roots](https://www.reddit.com/r/TheMotte/comments/jv161w/culture_war_roundup_for_the_week_of_november_16/gcw167l/?context=3&sort=best)
 
 (Part of [[Propaganda]])
