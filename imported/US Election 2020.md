@@ -6,7 +6,7 @@ slug: 2020-us-election
 This work-in-progress note is about an ongoing event.
 :::
 
-Presidential election between the incumbent [[Donald Trump]] and Joe Biden. See [The Epoch Times](https://www.theepochtimes.com/election-2020) for coverage of news with journalistic standards.
+Presidential election between the incumbent [[Donald Trump]] and Joe Biden. As for [[Reputable sources]] covering election news, I recommend [The Epoch Times](https://www.theepochtimes.com/election-2020).
 
 ## Informative links
 
