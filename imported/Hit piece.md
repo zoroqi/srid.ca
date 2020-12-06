@@ -1,6 +1,5 @@
 ---
 slug: hit-piece
-tags: [fakenews]
 ---
 
 One of the ploys that are part of [[Mainstream Media Bias]].

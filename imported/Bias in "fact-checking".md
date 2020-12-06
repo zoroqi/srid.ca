@@ -1,9 +1,8 @@
 ---
 slug: fact-checkers
-tags: [fakenews]
 ---
 
-The so called 'fact-checkers" don't necessarily deal with facts when it comes to politics and other controversial topics.
+The so called 'fact-checkers" (a part of [[Mainstream Media Bias]]) don't necessarily deal with facts when it comes to politics and other controversial topics.
 
 ## Origin
 
@@ -26,5 +25,3 @@ Snopes
 
 Associated Press (AP)
 : "*Fact-checking was devised to be a trusted way to separate fact from fiction.  In reality, many journalists use the label "fact-checking" as a cover for promoting their own biases.  A case in point is an Associated Press (AP) piece headlined "AP FACT-CHECK: Trump's inaccurate boasts on China travel ban," which was published on March 26, 2020 and carried by many news outlets.*" --- [Propaganda masquerading as fact-checking](https://www.americanthinker.com/blog/2020/04/propaganda_masquerading_as_fact_checking.html)
-
-(Part of [[Mainstream Media Bias]])
