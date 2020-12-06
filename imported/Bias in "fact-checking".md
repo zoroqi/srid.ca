@@ -7,7 +7,7 @@ The so called 'fact-checkers" don't necessarily deal with facts when it comes to
 
 ## Origin
 
-> [Media Matters lobby] had to make us think that we needed a third party to step in and tell us what to think and sort through the information … The fake news effort, the fact-checking, which is usually fake fact-checking, meaning it's not a genuine effort, is a [[Propaganda]] effort … We’ve seen it explode as we come into the [[US Election 2020]], for much the same reason, whereby, the social media companies, third parties, academic institutions and NewsGuard … they insert themselves. But of course, they're all backed by certain money and special interests. They're no more in a position to fact-check than an ordinary person walking on the street … --- [Sharyl Attkisson on Media Bias](https://articles.mercola.com/sites/articles/archive/2020/11/22/sharyl-attkisson-media-bias.aspx)
+> [Media Matters lobby] had to make us think that we needed a third party to step in and tell us what to think and sort through the information … The fake news effort, the fact-checking, which is usually fake fact-checking, meaning it's not a genuine effort, is a [[Propaganda]] effort … We’ve seen it explode as we come into the [[US Election 2020]], for much the same reason, whereby, the social media companies, third parties, academic institutions and NewsGuard … they insert themselves. But of course, they're all backed by certain money and special interests. They're no more in a position to fact-check than an ordinary person walking on the street … --- [[Sharyl Attkisson]] on Media Bias, [Analysis by Dr. Joseph Mercola](https://articles.mercola.com/sites/articles/archive/2020/11/22/sharyl-attkisson-media-bias.aspx)
 
 ## Fact-checking the various "fact-checkers"
 

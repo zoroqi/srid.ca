@@ -1,3 +1,2 @@
 all:
-	./import-private.sh
-	neuron rib
+	nix-shell -p goreman --run "goreman start"
