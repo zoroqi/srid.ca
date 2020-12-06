@@ -1,10 +1,11 @@
 ---
+slug: anti-meat
 tags: [religion/veganism, propaganda]
 ---
 
-# Vegetarian propaganda
+Why do many people believe that plant-based[^term] foods are healthier than animal-based foods? Could this all be (covert) propaganda[^def] that we have not yet recognized as such?
 
-Why do many people believe that plant-based foods are healthier than animal-based foods? Could this all be (covert) propaganda[^def] that we have not yet recognized as such?
+[^term]: The slyly named term "plant-based" in practice actually means "plant-only".
 
 [^def]: > **Propaganda**: Information, especially of a biased or misleading nature, used to promote or publicize a particular political cause or point of view.
 

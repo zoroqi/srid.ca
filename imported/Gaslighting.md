@@ -1,6 +1,5 @@
 ---
 slug: gaslighting
-tags: [social-conditioning]
 ---
 
 I prefer the psychoanalytic explanation of **gaslighting** as it is bereft of blaming that is common in victim. From [Wikipedia](https://en.wikipedia.org/w/index.php?title=Gaslighting&oldid=991474592#Psychoanalytic_explanation),

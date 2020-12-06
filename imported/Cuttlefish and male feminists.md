@@ -1,7 +1,6 @@
 ---
+slug: human-cuttlefish
 date: 2020-06-30
-tags:
-  - religion/wokeism
 ---
 
 # Cuttlefish and male feminists
