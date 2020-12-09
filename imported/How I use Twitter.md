@@ -10,7 +10,9 @@ Avoid ads and propaganda. Like any popular tech social media, Twitter forces bot
 
 - On desktop, use [Minimal Twitter](https://github.com/thomaswang/minimal-twitter)
 - Be selective in who you allow into your attention
-  - Create unique *Twitter Lists* for each domain. Ignore Home feed; use [TweetDeck]
+  - Create unique *Twitter Lists* for each domain. 
+- Ignore Home feed; use [TweetDeck] with lists in columns.
+  - Incidentally, Twitter's biased "fact-check" labels (see [[Bias in "fact-checking"]]) don't appear on TweetDeck.
 
 [TweetDeck]: https://tweetdeck.twitter.com/
 
@@ -36,7 +38,13 @@ The idea being that Twitter will act only as a transient medium where as-yet-une
   ```bash
   # TODO: Delete all but last N days of tweets
   # TODO: Run as systemd service
+
+  # Delete all but recent tweets
   nix-shell -p xsv -p t --run "t timeline -c -n 1000  \
     @srid_2012 | xsv select ID | tail -n +30 | \
     xargs t delete status -f"
+  # Do the same for likes
+  nix-shell -p xsv -p t --run "t favourites -c -n 1000  \
+    @srid_2012 | xsv select ID | tail -n +30 | \
+    xargs t delete favourite -f"
   ```
