@@ -19,7 +19,8 @@ cpnote () {
     cp -v --update "$1" ./imported/
 }
 
-nix-shell -p ripgrep --run "rg --null -lU \"^---\nslug: \" $ZK" | while IFS= read -r -d '' notefile; 
+rm -rf ./imported/*.md
+nix-shell -p ripgrep --run "rg --null -lU \"^---(\r)*\nslug: \" $ZK" | while IFS= read -r -d '' notefile; 
 do
     cpnote "${notefile}"
 done

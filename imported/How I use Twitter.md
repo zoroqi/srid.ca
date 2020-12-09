@@ -12,7 +12,7 @@ Avoid ads and propaganda. Like any popular tech social media, Twitter forces bot
 - Be selective in who you allow into your attention
   - Create unique *Twitter Lists* for each domain. 
 - Ignore Home feed; use [TweetDeck] with lists in columns.
-  - Incidentally, Twitter's biased "fact-check" labels (see [[Bias in "fact-checking"]]) don't appear on TweetDeck.
+  - Incidentally, Twitter's biased "fact-check" labels (see [[Bias in fact-checking]]) don't appear on TweetDeck.
 
 [TweetDeck]: https://tweetdeck.twitter.com/
 

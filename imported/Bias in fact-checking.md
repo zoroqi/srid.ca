@@ -2,7 +2,7 @@
 slug: fact-checkers
 ---
 
-The so called 'fact-checkers" (a part of [[Mainstream Media Bias]]) don't necessarily deal with facts when it comes to politics and other controversial topics.
+The so called "fact-checkers" (a part of [[Mainstream Media Bias]]) don't necessarily deal with facts when it comes to politics and other controversial topics.
 
 ## Origin
 

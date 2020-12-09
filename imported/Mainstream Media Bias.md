@@ -5,7 +5,7 @@ tags: [propaganda]
 
 Components of media bias:
 
-- [[[Bias in "fact-checking"]]]
+- [[[Bias in fact-checking]]]
 - [[[Hit piece]]]
 
 ## See also
