@@ -13,6 +13,6 @@ As tech censorship increasingly gets political, this *could* happen (see [[Googl
 
 The problem with this attitude is that it is an emotional reaction, and not one determined from an affectively neutral position, allowing full use of intelligence in the decision-making.
 
-There are risks to everything in life, and in regards to this particular problem of censorship and deplatforming, I'd think that it'd prudent to use a central authority's software for managing one's critical data[^backup] only as long as they do not use their platform to expouse heterodox views. This seems like a reasonable compromise to me.
+There are risks to everything in life, and in regards to this particular problem of censorship and deplatforming, I'd think that it is prudent to use a central authority's software for managing one's critical data[^backup] only as long as they do not use their platform to expouse heterodox views. This seems like a reasonable compromise to me.
 
 [^backup]: And of course maintaining regular *backups* of this data is extremely important, regardless of where you decide their primary storage be.

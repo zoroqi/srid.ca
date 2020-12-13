@@ -17,4 +17,4 @@ In the words of the literary academic John McWhorter, modern anti-racism "*has g
 * [Letters on Wokeism](https://letter.wiki/topics/348)
 * [Thomas Sowell on "systemic racism"](https://en.wikipedia.org/w/index.php?title=Thomas_Sowell&oldid=990299701#Race_and_ethnicity):
   > Sowell thinks that systemic racism is an untested, questionable hypothesis that is a piece of propaganda pushed on the American people. Sowell has said that “it really has no meaning that can be specified and tested in the way that one tests hypotheses" and "it’s one of many words that I don’t think even the people who use it have any clear idea what they’re saying". He has argued that it is a propaganda tactic akin to those used by Joseph Goebbels because it comes with an attitude that it must be "repeated long enough and loud enough" till it is believed and people "cave in" to it.
-  
+* Even [Supreme Court judges are not immune](https://twitter.com/NewDayForNJ/status/1338145531500097536).
