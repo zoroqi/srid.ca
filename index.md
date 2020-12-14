@@ -11,5 +11,5 @@ Selected timeline of notes presented below (for a complete index, click the tree
 [[z:zettels?tag=timeline/**&timeline]]
 
 :::{.ui .message .basic .segment}
-*I have always searched for freedom in my life. Whenever I have felt stranded or trapped I eventually moved in the direction that appeared to offer greater freedom.* ---[Vineeto](http://actualfreedom.com.au/actualism/vineeto/vineeto.htm)
+*Do or do not, there is no try.*
 :::

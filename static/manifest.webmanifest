@@ -6,11 +6,5 @@
   "background_color": "#00b5ad",
   "display": "standalone",
   "scope": "/",
-  "theme_color": "#00b5ad",
-  "shortcuts": [
-    {
-      "name": "Actualism Method",
-      "url": "/7c5337fc.html"
-    }
-  ]
+  "theme_color": "#00b5ad"
 }
